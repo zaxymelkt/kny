@@ -1,25 +1,53 @@
+---
+title: Statistics
+draft: false
+tags: []
+---
+
 # Overview
+
 Statistics (Stats) are a numerical representation of an individual's ability in a specific field: Agility, Strength, Durability, Stamina, Perception, Focus — even minor numerical difference in these stats could prove fatal.
 
 - For Demon Slayers, their stats range between a value of 1 to 60, a demon slayer is considered [[Hashira]] level if more than 4 stats are estimated beyond 40.
 
-- For Demons, their stats range between a value of 20 to 90. A Demon is considered [[12 Kizuki]] level if more than 4 stats are estimated beyond 50. 
+- For Demons, their stats range between a value of 20 to 90. A Demon is considered [[12 Kizuki]] level if more than 4 stats are estimated beyond 50.
+
 ## Agility
+
 Agility represents the swift movement and dexterity of an individual, encompassing their ability to cover ground quickly, navigate through the battlefield adeptly, execute rapid attacks, and evade or deflect incoming assaults. This attribute is crucial for manoeuvring effectively in high-stakes encounters, allowing skilled Demon Slayers to utilise their environment to their advantage. The implementation of [[Total Concentration Breathing]] further amplifies this agility, enabling Demon Slayers to achieve speeds that render conventional means of transport obsolete. However, while superior speed undoubtedly simplifies combat, it alone is insufficient to ensure victory against demons. The essence of agility lies not merely in raw speed but in the strategic application of movement—timing counterattacks, initiating rushes, or executing surprise manoeuvres with precision. These tactics are integral to enhancing a Demon Slayer's chances of survival and success in battle.
 
-## Strength 
+| Invested  | MD  | Dodge SPD | Block SPD |
+| --------- | --- | --------- | --------- |
+| 1 Point   | 3m  | +0        | +3        |
+| 5 Points  | 6m  | +0        | +4        |
+| 10 Points | 12m | +0        | +5        |
+| 15 Points | 18m | +1        | +6        |
+| 20 Points | 24m | +2        | +7        |
+| 25 Points | 30m | +2        | +8        |
+| 30 Points | 36m | +3        | +9        |
+| 35 Points | 42m | +3        | +10       |
+| 40 Points | 48m | +4        | +11       |
+| 45 Points | 54m | +4        | +12       |
+| 50 Points | 60m | +5        | +13       |
+| 55 Points | 66m | +5        | +14       |
+| 60 Points | 72m | +6        | +15       |
+
+## Strength
+
 Strength (STR) symbolises the raw physical might of an individual, embodying their unrefined power exerted without the need for concentration. This attribute is particularly significant in determining the cutting power of the [[Nichirin]] blade when wielded by a Demon Slayer. Unlike feats of strength that involve lifting or moving heavy objects, the true measure of a Demon Slayer's strength lies in their ability to inflict damage upon demons, specifically in the act of decapitation—a task that requires immense force due to the resilient nature of demon flesh. An illustrative demonstration of this strength involves slicing through a boulder with a single stroke of the blade. It is said some Demon Slayer's strength is so great, their blade turns hot red from just their grip.
 
 ## Durability
-Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsulating both their physical pain tolerance and their mental fortitude. It is analogous to health levels, indicating the amount of punishment an individual can endure before succumbing to injury or death. While demons possess the remarkable ability to regenerate quickly, inflicting sufficient damage in a brief span can still prove lethal. For Demon Slayers, durability signifies the capacity to persist and fight through injuries that would normally incapacitate others. This attribute is a blending the realms of the physical and the mental. Durability, therefore, represents the overall endurance of both body and mind, with the ability to harness this endurance being a function of Focus. This interconnection highlights the holistic approach to combat in where physical resilience is intrinsically linked to mental resolve.
+
+Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsulating both their physical pain tolerance and their mental fortitude. It is analogous to health levels, indicating the amount of punishment an individual can endure before succumbing to injury or death. While demons possess the remarkable ability to regenerate quickly, inflicting sufficient damage in a brief span can still prove lethal. For Demon Slayers, durability signifies the capacity to persist and fight through injuries that would normally incapacitate others. This attribute is a blending the realms of the physical and the mental. Durability, therefore, represents the overall endurance of both body and mind, with the ability to harness this endurance being a function of Focus.
 
 ## Stamina
+
 Stamina (STM) represents the physical endurance of a Demon Slayer, encapsulating their capacity to maintain the rigorous practice of Breathing Styles both within and outside the confines of battle. This attribute is crucial because it dictates how long a Demon Slayer can sustain their fighting prowess against demons, whose stamina appears limitless. When a Demon Slayer exhausts their stamina, they experience a sensation akin to a searing burn emanating from their lungs, progressively incapacitating their body.
 
 ## Perception
+
 Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict accurately, essential skills given the supernatural speed and agility of demons. Most demons operate at speeds and in manners that exceed human sensory capabilities, necessitating exceptional predictive abilities to counter their attacks effectively. Skilled Demon Slayers, such as [[Hashira]], possess an advanced form of perception called [[Extra Sensory Perception]] (ESP), enabling them to detect the aura of demons. This heightened awareness allows them to anticipate and respond to demonic threats more efficiently. Some Demon Slayers naturally possess some level of ESP in the form of [[Enhanced Senses]].
 
 ## Focus
+
 Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, reflecting their capacity to persevere even when on the brink of defeat. It is closely tied to their ability to wield their Nichirin blade effectively, preventing it from shattering under the force of enemy attacks. Additionally, focus is synonymous with technique, as it influences a Demon Slayer's mastery over their chosen Breathing Style. A lapse in focus can significantly impair a Demon Slayer's performance, underscoring the necessity of maintaining unwavering concentration during combat. A Demon Slayer could be as powerful, physically, as an Upper Moon, however, without proper Focus, their body would never make a step forward.
-
-
