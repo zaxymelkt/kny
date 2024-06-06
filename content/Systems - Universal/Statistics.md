@@ -136,21 +136,30 @@ Stamina (STM) represents the physical endurance of a Demon Slayer, encapsulating
 
 Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict accurately, essential skills given the supernatural speed and agility of demons. Most demons operate at speeds and in manners that exceed human sensory capabilities, necessitating exceptional predictive abilities to counter their attacks effectively. Skilled Demon Slayers, such as [[Hashira]], possess an advanced form of perception called [[Extra Sensory Perception]] (ESP), enabling them to detect the aura of demons. This heightened awareness allows them to anticipate and respond to demonic threats more efficiently. Some Demon Slayers naturally possess some level of ESP in the form of [[Enhanced Senses]].
 
-| Invested  | Visible SPD. | Blurred SPD | Invis. SPD |
-| --------- | ------------ | ----------- | ---------- |
-| 1 Point   | +1           | +2          | +3         |
-| 5 Points  | +5           | +7          | +9         |
-| 10 Points | +6           | +8          | +10        |
-| 15 Points | +7           | +10         | +12        |
-| 20 Points | +8           | +12         | +14        |
-| 25 Points | +10          | +14         | +15        |
-| 30 Points | +13          | +15         | +18        |
-| 35 Points | +15          | +18         | +23        |
-| 40 Points | +16          | +23         | +26        |
-| 45 Points | +18          | +24         | +30        |
-| 50 Points | +20          | +26         | +34        |
-| 55 Points | +22          | +28         | +36        |
-| 60 Points | +25          | +30         | +40        |
+| Invested  | Vis. SPD. | Blur. SPD | Invis. SPD | Sensory Range                       |
+| --------- | --------- | --------- | ---------- | ----------------------------------- |
+| 1 Point   | +1        | +2        | +3         | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 5 Points  | +5        | +7        | +9         | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 10 Points | +6        | +8        | +10        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 15 Points | +7        | +10       | +12        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 20 Points | +8        | +12       | +14        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 25 Points | +10       | +14       | +15        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 30 Points | +13       | +15       | +18        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 35 Points | +15       | +18       | +23        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 40 Points | +16       | +23       | +26        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 45 Points | +18       | +24       | +30        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 50 Points | +20       | +26       | +34        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 55 Points | +22       | +28       | +36        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+| 60 Points | +25       | +30       | +40        | (V)5m; (S)2m; (H)5m; (F)0m; (T) 0m; |
+
+> [!abstract] Substats
+> **Visible Speed** (Vis. SPD) _A subcategory of PER, dictating the amount of speed above an individual can react to without a debuff. This substat is often referred to as Favourable Evasion Zone._
+>
+> **Blurred Speed** (Blur. SPD) _A subcategory of PER, dictating the limit of speed an individual can react to. When reacting to blurred movement, an individual gains -2 Block SPD; losing the ability to dodge. This substate is often referred to as Reaction Speed (RAC SPD)_
+>
+> **Invisible Speed** (Invis. SPD) _A subcategory of PER, dictating the speed at which movement becomes impossible to focus on. This substate is oftened referred to as Unfavourable Evasion Zone._
+>
+> **Sensory Range** (Sense Ran.) _A subcategory of PER, dictating the distance an individual can see (V), hear (H), smell (S), touch (F), or taste (T)._
 
 ---
 
