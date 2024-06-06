@@ -118,7 +118,7 @@ The user assumes a high stance, before unleashing a number of consecutive slashe
 
 - Preformed at +6 Movement SPD
 - Preformed at +5 Swing SPD
-- Preformed at +6 ATK STR
+- Preformed at +10 ATK STR
 
 - Unmastered Cost: 60 STAM
 - Mastered Cost: 30 STAM
@@ -127,7 +127,7 @@ The user flips into the air behind the opponent before unleashing a singular ver
 
 - Preformed at +8 Movement SPD
 - Preformed at +6 Swing SPD
-- Preformed at +6 ATK STR
+- Preformed at +8 ATK STR
 
 - Unmastered Cost: 35 STAM
 - Mastered Cost: 20 STAM
@@ -143,8 +143,8 @@ The user performs high-speed twists and rotations, creating afterimages that are
 ### Flame Dance
 A two-strike combo which starts with a downward vertical slash leading into a horizontal slash right after.
 
-- Preformed at +6 Swing SPD
-- Preformed at +6 ATK STR
+- Preformed at +6 Swing SPD (First) | +8 Swing SPD (Second)
+- Preformed at +6 ATK STR (First) | +8 ATK STR (Second)
 
 - Unmastered Cost: 35 STAM
 - Mastered Cost: 20 STAM
@@ -155,5 +155,5 @@ The user continuously performs all twelve forms of **Sun Breathing** in repeti
 - Preformed the previous forms at +2 ATK STR every turn this form is continued.
 	- If the user fails to use a Sun Breathing form in the correct order, all momentum is lost.
 
-- Unmastered Cost: 20 STAM
-- Mastered Cost: 10 STAM
+- Unmastered Cost: 100 STAM per turn
+- Mastered Cost: 80 STAM per turn
