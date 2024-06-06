@@ -19,20 +19,19 @@ tags:
 
 ## Breathing Styles
 
-- [[Sun Breathing]]
+- **[[Sun Breathing]]**
   - [[Moon Breathing]]
-- Water Breathing
-  - Serpent Breathing
-  - Flower Breathing
-- Flame Breathing
-  - Love Breathing
-- Stone Breathing
-  - Quake Breathing
-- [[Thunder Breathing]]
-  - Sound Breathing
-- Wind Breathing
-  - Mist Breathing
-  - Beast Breathing
+- **[[Water Breathing]]**
+  - [[Serpent Breathing]]
+  -[[Flower Breathing]]
+- **[[Flame Breathing]]**
+  - [[Love Breathing]]
+- **[[Stone Breathing]]**
+- **[[Thunder Breathing]]**
+  - [[Sound Breathing]]
+- **[[Wind Breathing]]**
+  - [[Mist Breathing]]
+  - [[Beast Breathing]]
 
 ## ESP Abilities
 

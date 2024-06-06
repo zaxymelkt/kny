@@ -3,10 +3,9 @@ title: Moon Breathing
 draft: false
 tags: []
 ---
-
-# Overview
-TBD.
-
+---
+# Moon Breathing Overview
+A Breathing Style crafted by [[Tsukuyomi]], unique to them. Throughout history, Tsukuyomi had no student. It is said that a rare child is born with the natural knowledge of the Breathing Style — their [[Nichirin]] tainted with lavender. Moon Breathing was only seen after the [[Hollowing]], where it was used by Tsukuyomi to kill those who possessed a black Nichirin blade. Stories say some hear whispers of the technique in their sleep — tempting them to corruption.
 
 # Mastery
 
