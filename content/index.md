@@ -11,10 +11,11 @@ tags:
 - Nichirin
 - Demon Slayer Uniform
 
-## Skills
+## Techniques
 
 - Total Concentration Breathing
 - Demon Slayer Mark
+- Repetative Action
 
 ## Breathing Styles
 
