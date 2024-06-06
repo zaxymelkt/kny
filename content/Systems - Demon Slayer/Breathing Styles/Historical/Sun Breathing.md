@@ -40,7 +40,7 @@ The user performs a singular downwards vertical slash in an arcing motion.
 
 **Buffs**
 - Preformed at +5 Swing SPD
-- Preformed at +5 ATK STR
+- Preformed at +7 ATK STR
 
 **Cost**
 - Unmastered Cost: 20 STAM
@@ -51,9 +51,9 @@ The user performs a singular downwards vertical slash in an arcing motion.
 The user spins and twists their upper body in a circular motion, releasing a 360° slash. The slash does two rounds of damage.
 
 **Buffs**
-- Preformed at +5 Movement SPD
-- Preformed at +5 Swing SPD
-- Preformed at +6 ATK STR
+- Preformed at +7 Movement SPD
+- Preformed at +7 Swing SPD
+- Preformed at +7 ATK STR
 
 **Cost**
 - Unmastered Cost: 20 STAM
@@ -64,8 +64,8 @@ The user spins and twists their upper body in a circular motion, releasing a 360
 The user unleashes two consecutive horizontal arcing slashes around themselves to strike incoming attacks.
 
 **Buffs**
-- Preformed at +5 Swing SPD
-- Preformed at +7 ATK STR
+- Preformed at +6 Swing SPD
+- Preformed at +8 ATK STR
 
 **Cost**
 - Unmastered Cost: 30 STAM
@@ -75,8 +75,8 @@ The user unleashes two consecutive horizontal arcing slashes around themselves t
 The user performs a singular slash utilising a spiralling motion which extends in front of themselves to defend from imminent frontal attacks.
 
 **Buffs**
-- Preformed at +4 Block SPD
-- Preformed at +8 Block STR
+- Preformed at +6 Block SPD
+- Preformed at +12 Block STR
 
 **Cost**
 - Unmastered Cost: 30 STAM
@@ -86,8 +86,8 @@ The user performs a singular slash utilising a spiralling motion which extends i
 The user backflips into the air before performing a singular horizontal slash which aims to decapitate the target.
 
 **Buffs**
-- Preformed at +4 Movement SPD
-- Preformed at +5 Swing SPD
+- Preformed at +6 Movement SPD
+- Preformed at +7 Swing SPD
 - Preformed at +8 ATK STR
 
 **Cost**
@@ -98,8 +98,8 @@ The user backflips into the air before performing a singular horizontal slash wh
 The user rushes forth, now attempting to deliver a strike seemingly enveloped in a heat-haze, masking the true length and location of the blade to deliver an unexpected strike.
 
 **Buffs**
-- Preformed at +8 Swing SPD
-- Preformed at +4 ATK STR
+- Preformed at +9 Swing SPD
+- Preformed at +6 ATK STR
 - Reduces Target's Block and Dodge SPD by 5.
 
 **Cost**
@@ -110,8 +110,8 @@ The user rushes forth, now attempting to deliver a strike seemingly enveloped in
 The user spirals into the air whilst performing a swirling slash upwards to strike the target.
 
 **Buffs**
-- Preformed at +5 Swing SPD
-- Preformed at +6 ATK STR
+- Preformed at +8 Swing SPD
+- Preformed at +7 ATK STR
 
 **Cost**
 - Unmastered Cost: 30 STAM
@@ -122,8 +122,8 @@ The user spirals into the air whilst performing a swirling slash upwards to stri
 The user performs a singular thrust utilising the tip of their blade to strike the target.
 
 **Buffs**
-- Preformed at +8 Swing SPD
-- Preformed at +5 ATK STR
+- Preformed at +10 Swing SPD
+- Preformed at +8 ATK STR
 
 **Cost**
 - Unmastered Cost: 25 STAM
@@ -133,9 +133,9 @@ The user performs a singular thrust utilising the tip of their blade to strike t
 The user assumes a high stance, before unleashing a number of consecutive slashes in a fluid motion in the form of a Japanese dragon made of solar flames. In total, the user can preform up to five slashing attacks.
 
 **Buffs**
-- Preformed at +6 Movement SPD
-- Preformed at +5 Swing SPD
-- Preformed at +10 ATK STR
+- Preformed at +9 Movement SPD
+- Preformed at +8 Swing SPD
+- Preformed at +15 ATK STR
 
 **Cost**
 - Unmastered Cost: 60 STAM
@@ -144,8 +144,8 @@ The user assumes a high stance, before unleashing a number of consecutive slashe
 The user flips into the air behind the opponent before unleashing a singular vertical slash in a circular motion to swiftly cut the target in half.
 
 **Buffs**
-- Preformed at +8 Movement SPD
-- Preformed at +6 Swing SPD
+- Preformed at +10 Movement SPD
+- Preformed at +8 Swing SPD
 - Preformed at +8 ATK STR
 
 **Cost**
@@ -166,8 +166,8 @@ The user performs high-speed twists and rotations, creating afterimages that are
 A two-strike combo which starts with a downward vertical slash leading into a horizontal slash right after.
 
 **Buffs**
-- Preformed at +6 Swing SPD (First) | +8 Swing SPD (Second)
-- Preformed at +6 ATK STR (First) | +8 ATK STR (Second)
+- Preformed at +8 Swing SPD (First) | +10 Swing SPD (Second)
+- Preformed at +8 ATK STR (First) | +10 ATK STR (Second)
 
 **Cost**
 - Unmastered Cost: 35 STAM

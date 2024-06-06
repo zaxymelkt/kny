@@ -33,7 +33,7 @@ This technique requires a single turn to prepare.
 ## Second Form: Sixfold
 The user performs Thunderclap and Flash six times in quick succession while slightly augmenting the power and speed of their dashes. Only the final movement can attack.
 
-This technique requires three turns to prepare.
+This technique has the user dashing for two turns before on the third they release their sixfold's slash.
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
@@ -46,7 +46,7 @@ This technique requires three turns to prepare.
 ## Third Form: Eight Fold
 The user performs Thunderclap and Flash eight times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
 
-This technique requires four turns to prepare.
+This technique has the user dashing for three turns before on the fourth they release their eightfold's slash.
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
@@ -58,7 +58,7 @@ This technique requires four turns to prepare.
 ## Fourth Form: Twelve Fold
 The user performs Thunderclap and Flash twelve times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
 
-This technique requires six turns to prepare.
+This technique has the user dashing for five turns before on the sixth they release their twelvefold's slash.
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
@@ -71,7 +71,7 @@ This technique requires six turns to prepare.
 ## Fifth Form: Sixteenfold
 The user performs Thunderclap and Flash sixteen times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
 
-This technique requires eight turns to prepare.
+This technique has the user dashing for seven turns before on the eighth they release their sixteenfold's slash.
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
