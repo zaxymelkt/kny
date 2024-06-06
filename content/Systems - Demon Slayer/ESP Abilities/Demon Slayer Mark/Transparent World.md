@@ -12,7 +12,7 @@ Demon Slayers that have awakened the Mark can utilise a special form of ocular e
 
 | Level | Req  |
 | ----- | ---- |
-| 1     | 10TP |
+| 1     | ?    |
 | 2     | 15TP |
 | 3     | 25TP |
 | 4     | 35TP |
