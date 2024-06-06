@@ -6,7 +6,7 @@ tags: []
 
 # Overview
 
-A Breathing Style said to only be usable by [[Amaterasu]] herself, a divine techique. Sun Breathing is the father of all other Breathing Styles being unique adapted to very few individuals throughout history. After the disappearance of Amaterasu — the man who taught others to use Total Concentration Breathing and to develop their own Breathing Styles — [[Kamado Techikimi]] taught the technique as a dance to his descendants, so that it would not be forgotten, this being brought on by the systematic destruction of those capable of learning the technique occured — an event known as the [[Hollowing]].
+A Breathing Style said to only be usable by [[Amaterasu]] herself, a divine techique. Sun Breathing is the father of all other Breathing Styles being uniquely adapted to very few individuals throughout history. After the disappearance of Amaterasu — the man who taught others to use Total Concentration Breathing and to develop their own Breathing Styles — [[Kamado Techikimi]] taught the technique as a dance to his descendants, so that it would not be forgotten, this being brought on by the systematic destruction of those capable of learning the technique occured — an event known as the [[Hollowing]].
 
 > [!important] History Fun Fact!
 >
