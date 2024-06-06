@@ -109,24 +109,24 @@ Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsu
 
 Stamina (STM) represents the physical endurance of a Demon Slayer, encapsulating their capacity to maintain the rigorous practice of Breathing Styles both within and outside the confines of battle. This attribute is crucial because it dictates how long a Demon Slayer can sustain their fighting prowess against demons, whose stamina appears limitless. When a Demon Slayer exhausts their stamina, they experience a sensation akin to a searing burn emanating from their lungs, progressively incapacitating their body.
 
-| Invested  | STAM Mult. | STAM Reg. |
-| --------- | ---------- | --------- |
-| 1 Point   | 1          | 0         |
-| 5 Points  | 1.5        | 1         |
-| 10 Points | 1.5        | 1         |
-| 15 Points | 2          | 2         |
-| 20 Points | 2          | 3         |
-| 25 Points | 2.5        | 5         |
-| 30 Points | 2.5        | 8         |
-| 35 Points | 3          | 13        |
-| 40 Points | 3          | 21        |
-| 45 Points | 4          | 34        |
-| 50 Points | 5          | 55        |
-| 55 Points | 5          | 89        |
-| 60 Points | 6          | 144       |
+| Invested  | STAM Mult. | STAM Reg. | STAM Max. |
+| --------- | ---------- | --------- | --------- |
+| 1 Point   | 1          | 0         | 1         |
+| 5 Points  | 1.5        | 1         | 8         |
+| 10 Points | 1.5        | 1         | 15        |
+| 15 Points | 2          | 2         | 30        |
+| 20 Points | 2          | 3         | 40        |
+| 25 Points | 2.5        | 5         | 63        |
+| 30 Points | 2.5        | 8         | 75        |
+| 35 Points | 3          | 13        | 105       |
+| 40 Points | 3          | 21        | 120       |
+| 45 Points | 4          | 34        | 180       |
+| 50 Points | 5          | 55        | 200       |
+| 55 Points | 5          | 89        | 275       |
+| 60 Points | 6          | 144       | 160       |
 
 > [!abstract] Substats
-> **Stamina Multiplier** (STAM Mult.) _A subcategory of STAM, dictating the multiplier used in finding the maximum stamina of an indvidual._
+> **Stamina Multiplier** (STAM Mult.) _A subcategory of STAM, dictating the multiplier used in finding the maximum stamina of an indvidual. This value is rounded up._
 >
 > **Stamina Recovery** (STAM Reg.) _A subcategory of STAM, dictating the amount of STAM recovered every three turns without using a technique from a Breathing Style_
 
