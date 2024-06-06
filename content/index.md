@@ -15,7 +15,7 @@ tags:
 
 - Total Concentration Breathing
 - Demon Slayer Mark
-- Repetative Action
+- Repetitive Action
 
 ## Breathing Styles
 

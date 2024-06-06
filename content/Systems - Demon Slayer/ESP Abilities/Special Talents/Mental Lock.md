@@ -10,7 +10,7 @@ An ability unique to those with exceptional [[Statistics#Focus|focus]], they wer
 
 ## Mental Locks
 
-There are 10 Mental Locks which limit the power of the individual.
+There are 15 Mental Locks which limit the power of the individual.
 
 Levels are unlocked through accumulated Damage across all battles.
 
