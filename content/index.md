@@ -20,7 +20,7 @@ tags:
 ## Breathing Styles
 
 - [[Sun Breathing]]
-  - Moon Breathing
+  - [[Moon Breathing]]
 - Water Breathing
   - Serpent Breathing
   - Flower Breathing
