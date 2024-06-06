@@ -16,21 +16,21 @@ A Breathing Style said to only be usable by [[Amaterasu]] herself, a divine tech
 
 Learning and Mastering the different forms of Sun Breathing is an impossible task for most. Those with a black bladed Nichirin were once told to be the practicioners, though no Demon Slayer has produced one in the past 80 years.
 
-| Form                       | Unlock Req. | Mastery Req.   |
-| -------------------------- | ----------- | -------------- |
-| Dance                      | 15 FOC      | DSM Lv1        |
-| Clear Blue Sky             | 20 FOC      | DSM Lv2        |
-| Raging Sun                 | 25 FOC      | STW Lv2        |
-| Burning Bones, Summer Sun  | 20 FOC      | DSM Lv2        |
-| Setting Sun Transformation | 30 FOC      | DSM Lv3        |
-| Solar Heat Haze            | 30 FOC      | STW Lv3        |
-| Beneficent Radiance        | 25 FOC      | DSM Lv2        |
-| Sunflower Thrust           | 40 FOC      | DSM Lv4        |
-| Sun Halo Dragon Head Dance | 40 FOC      | STW Lv4        |
-| Fire Wheel                 | 35 FOC      | DSM Lv3        |
-| Fake Rainbow               | 35 FOC      | DSM Lv3        |
-| Flame Dance                | 45 FOC      | STW Lv4        |
-| Kagura ritual              | 50 FOC      | Selfless State |
+| Form                                                                                 | Unlock Req. | Mastery Req.   |
+| ------------------------------------------------------------------------------------ | ----------- | -------------- |
+| [[Sun Breathing#First Form: Dance\|Dance]]                                           | 15 FOC      | DSM Lv1        |
+| [[Sun Breathing#Second Form: Clear Blue Sky\|Clear Blue Sky]]                        | 20 FOC      | DSM Lv2        |
+| [[Sun Breathing#Third Form: Raging Sun\|Raging Sun]]                                 | 25 FOC      | STW Lv2        |
+| [[Sun Breathing#Fourth Form: Burning Bones, Summer Sun\|Burning Bones, Summer Sun]]  | 20 FOC      | DSM Lv2        |
+| [[Sun Breathing#Fifth Form: Setting Sun Transformation\|Setting Sun Transformation]] | 30 FOC      | DSM Lv3        |
+| [[Sun Breathing#Sixth Form: Solar Heat Haze\|Solar Heat Haze]]                       | 30 FOC      | STW Lv3        |
+| [[Sun Breathing#Seventh Form: Beneficent Radiance\|Beneficent Radiance]]             | 25 FOC      | DSM Lv2        |
+| [[Sun Breathing#Eight Form: Sunflower Thrust\|Sunflower Thrust]]                     | 40 FOC      | DSM Lv4        |
+| [[Sun Breathing#Ninth Form: Sun Halo Dragon Head Dance\|Sun Halo Dragon Head Dance]] | 40 FOC      | STW Lv4        |
+| [[Sun Breathing#Tenth Form: Fire Wheel\|Fire Wheel]]                                 | 35 FOC      | DSM Lv3        |
+| [[Sun Breathing#Elventh Form: Fake Rainbow\|Fake Rainbow]]                           | 35 FOC      | DSM Lv3        |
+| [[Sun Breathing#Twelfth Form Flame Dance\|Flame Dance]]                              | 45 FOC      | STW Lv4        |
+| [[Sun Breathing#Kagura Ritual\|Kagura ritual]]                                       | 50 FOC      | Selfless State |
 
 ## Forms
 
@@ -93,7 +93,7 @@ The user backflips into the air before performing a singular horizontal slash wh
 **Cost**
 - Unmastered Cost: 30 STAM
 - Mastered Cost: 15 STAM
-### Solar Heat Haze
+### Sixth Form: Solar Heat Haze
 
 The user rushes forth, now attempting to deliver a strike seemingly enveloped in a heat-haze, masking the true length and location of the blade to deliver an unexpected strike.
 
@@ -105,7 +105,7 @@ The user rushes forth, now attempting to deliver a strike seemingly enveloped in
 **Cost**
 - Unmastered Cost: 40 STAM
 - Mastered Cost: 20 STAM
-### Beneficent Radiance
+### Seventh Form: Beneficent Radiance
 
 The user spirals into the air whilst performing a swirling slash upwards to strike the target.
 
@@ -117,7 +117,7 @@ The user spirals into the air whilst performing a swirling slash upwards to stri
 - Unmastered Cost: 30 STAM
 - Mastered Cost: 15 STAM
 
-### Sunflower Thrust
+### Eighth Form: Sunflower Thrust
 
 The user performs a singular thrust utilising the tip of their blade to strike the target.
 
@@ -128,7 +128,7 @@ The user performs a singular thrust utilising the tip of their blade to strike t
 **Cost**
 - Unmastered Cost: 25 STAM
 - Mastered Cost: 15 STAM
-### Sun Halo Dragon Head Dance
+### Ninth Form: Sun Halo Dragon Head Dance
 
 The user assumes a high stance, before unleashing a number of consecutive slashes in a fluid motion in the form of a Japanese dragon made of solar flames. In total, the user can preform up to five slashing attacks.
 
@@ -140,7 +140,7 @@ The user assumes a high stance, before unleashing a number of consecutive slashe
 **Cost**
 - Unmastered Cost: 60 STAM
 - Mastered Cost: 30 STAM
-### Fire Wheel
+### Tenth Form: Fire Wheel
 The user flips into the air behind the opponent before unleashing a singular vertical slash in a circular motion to swiftly cut the target in half.
 
 **Buffs**
@@ -151,7 +151,7 @@ The user flips into the air behind the opponent before unleashing a singular ver
 **Cost**
 - Unmastered Cost: 35 STAM
 - Mastered Cost: 20 STAM
-### Fake Rainbow
+### Eleventh Form: Fake Rainbow
 The user performs high-speed twists and rotations, creating afterimages that are primarily used for evading attacks. These afterimages are particularly effective against enemies with sharp vision.
 
 **Buffs**
@@ -162,7 +162,7 @@ The user performs high-speed twists and rotations, creating afterimages that are
 **Cost**
 - Unmastered Cost: 45 STAM
 - Mastered Cost: 25 STAM
-### Flame Dance
+### Twelfth Form: Flame Dance
 A two-strike combo which starts with a downward vertical slash leading into a horizontal slash right after.
 
 **Buffs**
