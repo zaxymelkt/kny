@@ -167,4 +167,27 @@ Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict
 
 Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, reflecting their capacity to persevere even when on the brink of defeat. It is closely tied to their ability to wield their Nichirin blade effectively, preventing it from shattering under the force of enemy attacks. Additionally, focus is synonymous with technique, as it influences a Demon Slayer's mastery over their chosen Breathing Style. A lapse in focus can significantly impair a Demon Slayer's performance, underscoring the necessity of maintaining unwavering concentration during combat. A Demon Slayer could be as powerful, physically, as an Upper Moon, however, without proper Focus, their body would never make a step forward.
 
+| Invested  | Indiv. FOC | Obj. FOC | Daze | Stunned | Unconsious |
+| --------- | ---------- | -------- | ---- | ------- | ---------- |
+| 1 Point   | 1          | 1        | +3   | +5      | +7         |
+| 5 Points  | 1          | 2        | +5   | +7      | +9         |
+| 10 Points | 2          | 4        | +7   | +9      | +11        |
+| 15 Points | 2          | 6        | +9   | +11     | +13        |
+| 20 Points | 2          | 8        | +11  | +13     | +15        |
+| 25 Points | 3          | 10       | +13  | +15     | +17        |
+| 30 Points | 3          | 12       | +15  | +17     | +21        |
+| 35 Points | 4          | 14       | +17  | +21     | +23        |
+| 40 Points | 4          | 16       | +21  | +23     | +25        |
+| 45 Points | 4          | 18       | +23  | +25     | +27        |
+| 50 Points | 5          | 20       | +25  | +27     | +29        |
+| 55 Points | 5          | 22       | +27  | +29     | +31        |
+| 60 Points | 6          | 24       | +29  | +31     | +33        |
+
+> [!abstract] Substats
+> **Individual Focus** (Indiv. FOC) _A subcategory of FOC, dictating the number of individuals oneself can keep track of and or work along side with in a given turn._
+>
+> **Object Focus** (Obj. FOC) _A subcategory of FOC, dictating the number of objects; such as demon blood arts, swords, etc, an individual can keep track of in a given turn.)_
+>
+> **Tolerance** (Tol.) _A subcategory of FOC, dictating the amount of strength an attack requires to inflict the Daze, Stunned, or Unconsious status effect. A Nichirin Blade can be broken if an attack would inflict [Unconsious] on the wielder._
+
 ---
