@@ -27,7 +27,7 @@ Learning and Mastering the different forms of Sun Breathing is an impossible tas
 | [[Sun Breathing#Seventh Form: Beneficent Radiance\|Beneficent Radiance]]             | 25 FOC      | DSM Lv2        |
 | [[Sun Breathing#Eight Form: Sunflower Thrust\|Sunflower Thrust]]                     | 40 FOC      | DSM Lv4        |
 | [[Sun Breathing#Ninth Form: Sun Halo Dragon Head Dance\|Sun Halo Dragon Head Dance]] | 40 FOC      | STW Lv4        |
-| [[Sun Breathing#Tenth Form: Fire Wheel\|Fire Wheel]]                                 | 35 FOC      | DSM Lv3        |
+| [[Sun Breathing#Tenth Form: Fire Wh\|Fire Wheel]]                                    | 35 FOC      | DSM Lv3        |
 | [[Sun Breathing#Elventh Form: Fake Rainbow\|Fake Rainbow]]                           | 35 FOC      | DSM Lv3        |
 | [[Sun Breathing#Twelfth Form Flame Dance\|Flame Dance]]                              | 45 FOC      | STW Lv4        |
 | [[Sun Breathing#Kagura Ritual\|Kagura ritual]]                                       | 50 FOC      | Selfless State |
@@ -39,8 +39,8 @@ Learning and Mastering the different forms of Sun Breathing is an impossible tas
 The user performs a singular downwards vertical slash in an arcing motion.
 
 **Buffs**
-- Preformed at +4 Swing SPD
-- Preformed at +4 ATK STR
+- Preformed at +5 Swing SPD
+- Preformed at +5 ATK STR
 
 **Cost**
 - Unmastered Cost: 20 STAM
