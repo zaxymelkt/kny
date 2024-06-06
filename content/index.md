@@ -28,7 +28,7 @@ tags:
   - Love Breathing
 - Stone Breathing
   - Quake Breathing
-- Thunder Breathing
+- [[Thunder Breathing]]
   - Sound Breathing
 - Wind Breathing
   - Mist Breathing
