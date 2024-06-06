@@ -51,7 +51,7 @@ tags:
 
 ### Special Talents
 
-- Mental Lock
+- [[Mental Lock]]
 
 # Demon Systems
 
