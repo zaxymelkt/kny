@@ -82,22 +82,22 @@ Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsu
 | --------- | --- | --- | ------------- | ----------- |
 | 1 Point   | 3   | 2   | N/A           | N/A         |
 | 5 Points  | 15  | 10  | N/A           | N/A         |
-| 10 Points | 30  | 20  | N/A           | N/A         |
-| 15 Points | 45  | 30  | N/A           | N/A         |
+| 10 Points | 30  | 20  | Level 1       | N/A         |
+| 15 Points | 45  | 30  | Level 1       | N/A         |
 | 20 Points | 60  | 40  | Level 1       | N/A         |
-| 25 Points | 75  | 50  | Level 1       | N/A         |
-| 30 Points | 90  | 60  | Level 1       | N/A         |
+| 25 Points | 75  | 50  | Level 2       | N/A         |
+| 30 Points | 90  | 60  | Level 2       | N/A         |
 | 35 Points | 105 | 70  | Level 2       | N/A         |
-| 40 Points | 120 | 80  | Level 2       | Level 1     |
-| 45 Points | 135 | 90  | Level 2       | Level 1     |
+| 40 Points | 120 | 80  | Level 3       | Level 1     |
+| 45 Points | 135 | 90  | Level 3       | Level 1     |
 | 50 Points | 150 | 100 | Level 3       | Level 1     |
-| 55 Points | 165 | 110 | Level 3       | Level 2     |
-| 60 Points | 180 | 120 | Level 3       | Level 2     |
+| 55 Points | 165 | 110 | Level 4       | Level 2     |
+| 60 Points | 180 | 120 | Level 4       | Level 2     |
 
 > [!abstract] Substats
-> **Health** (HP) _A subcategory of DUR, dictating the amount of life-force or health an individual has._
+> **Health** (HP) _A subcategory of DUR, dictating the amount of life-force or health an individual has. HP is x3 the point investment into DUR._
 >
-> **Spirit Health** (SHP) _A subcategory of DUR, dictating the amount of willpower or spirit an individual has._
+> **Spirit Health** (SHP) _A subcategory of DUR, dictating the amount of willpower or spirit an individual has SHP is x2 the point investment into DUR._
 >
 > **Injury Resistance** (Injury Resist.) _A subcategory of DUR, dictating the injury level an individual can continue to fight through; often referred to as pain tolerance._
 >
@@ -109,11 +109,48 @@ Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsu
 
 Stamina (STM) represents the physical endurance of a Demon Slayer, encapsulating their capacity to maintain the rigorous practice of Breathing Styles both within and outside the confines of battle. This attribute is crucial because it dictates how long a Demon Slayer can sustain their fighting prowess against demons, whose stamina appears limitless. When a Demon Slayer exhausts their stamina, they experience a sensation akin to a searing burn emanating from their lungs, progressively incapacitating their body.
 
+| Invested  | STAM Mult. | STAM Reg. |
+| --------- | ---------- | --------- |
+| 1 Point   | 1          | 0         |
+| 5 Points  | 1.5        | 1         |
+| 10 Points | 1.5        | 1         |
+| 15 Points | 2          | 2         |
+| 20 Points | 2          | 3         |
+| 25 Points | 2.5        | 5         |
+| 30 Points | 2.5        | 8         |
+| 35 Points | 3          | 13        |
+| 40 Points | 3          | 21        |
+| 45 Points | 4          | 34        |
+| 50 Points | 5          | 55        |
+| 55 Points | 5          | 89        |
+| 60 Points | 6          | 144       |
+
+> [!abstract] Substats
+> **Stamina Multiplier** (STAM Mult.) _A subcategory of STAM, dictating the multiplier used in finding the maximum stamina of an indvidual._
+>
+> **Stamina Recovery** (STAM Reg.) _A subcategory of STAM, dictating the amount of STAM recovered every three turns without using a technique from a Breathing Style_
+
 ---
 
 ## Perception
 
 Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict accurately, essential skills given the supernatural speed and agility of demons. Most demons operate at speeds and in manners that exceed human sensory capabilities, necessitating exceptional predictive abilities to counter their attacks effectively. Skilled Demon Slayers, such as [[Hashira]], possess an advanced form of perception called [[Extra Sensory Perception]] (ESP), enabling them to detect the aura of demons. This heightened awareness allows them to anticipate and respond to demonic threats more efficiently. Some Demon Slayers naturally possess some level of ESP in the form of [[Enhanced Senses]].
+
+| Invested  | Visible SPD. | Blurred SPD | Invis. SPD |
+| --------- | ------------ | ----------- | ---------- |
+| 1 Point   | +1           | +2          | +3         |
+| 5 Points  | +5           | +7          | +9         |
+| 10 Points | +6           | +8          | +10        |
+| 15 Points | +7           | +10         | +12        |
+| 20 Points | +8           | +12         | +14        |
+| 25 Points | +10          | +14         | +15        |
+| 30 Points | +13          | +15         | +18        |
+| 35 Points | +15          | +18         | +23        |
+| 40 Points | +16          | +23         | +26        |
+| 45 Points | +18          | +24         | +30        |
+| 50 Points | +20          | +26         | +34        |
+| 55 Points | +22          | +28         | +36        |
+| 60 Points | +25          | +30         | +40        |
 
 ---
 
