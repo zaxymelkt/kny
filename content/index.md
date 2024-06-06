@@ -38,7 +38,7 @@ tags:
 
 ### Demon Slayer Mark
 
-- See-Through World
+- [[Transparent World]]
 - Selfless State
 
 ### Enhanced Senses
