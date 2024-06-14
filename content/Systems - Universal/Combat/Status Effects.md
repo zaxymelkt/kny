@@ -53,28 +53,28 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 	- -3 [[Statistics#Strength|STR]].
 	- -3 [[Statistics#Agility|Movement SPD]].
 	- -2 [[Statistics#Durability|DUR]].
-- Without 20 [[Statistics#Durability|DUR]] the affected area will be unable.
+- Without 20 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -5.
 ### Broken 2 :
 - Applies a Debuff to the afflicted area:
 	- -5 [[Statistics#Strength|STR]].
 	- -6 [[Statistics#Agility|Movement SPD]].
 	- -4 [[Statistics#Durability|DUR]].
-- Without 30 [[Statistics#Durability|DUR]] the affected area will be unable.
+- Without 30 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -3.
 ### Broken 3 :
 - Applies a Debuff to the afflicted area:
 	- -8 [[Statistics#Strength|STR]].
 	- -9 [[Statistics#Agility|Movement SPD]].
 	- -5 [[Statistics#Durability|DUR]].
-- Without 45 [[Statistics#Durability|DUR]] the affected area will be unable.
+- Without 45 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -1.
 ### Broken 4 :
 - Applies a Debuff to the afflicted area:
 	- -10 [[Statistics#Strength|STR]].
 	- -12 [[Statistics#Agility|Movement SPD]].
 	- -8 [[Statistics#Durability|DUR]].
-- Without 60 [[Statistics#Durability|DUR]] the affected area will be unable.
+- Without 60 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially.
 
 ---
@@ -144,34 +144,98 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 ## Burned 
 
 ### Burned 1 :
+- Applies a Debuff to the afflicted area:
+	- -1 [[Statistics#Strength|STR]].
+	- -3 [[Statistics#Durability|DUR]].
+- Without 10 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Burned 2 :
+- Applies a Debuff to the afflicted area:
+	- -3 [[Statistics#Strength|STR]].
+	- -6 [[Statistics#Durability|DUR]].
+- Without 30 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Burned 3 :
+- Applies a Debuff to the afflicted area:
+	- -5 [[Statistics#Strength|STR]].
+	- -12 [[Statistics#Durability|DUR]].
+- Without 60 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Burned 4 :
+- Applies a Debuff to the afflicted area:
+	- -6 [[Statistics#Strength|STR]].
+	- -15 [[Statistics#Durability|DUR]].
+- Without 70 [[Statistics#Durability|DUR]] the affected area will be unusable.
 
 ---
 ## Frostbitten 
 
 ### Frostbitten 1 :
+- Applies a Debuff to the afflicted area:
+	- -2 [[Statistics#Agility|ATK SPD]].
+	- -2 [[Statistics#Durability|DUR]].
+- Without 10 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Frostbitten 2 :
+- Applies a Debuff to the afflicted area:
+	- -4 [[Statistics#Agility|ATK SPD]].
+	- -4 [[Statistics#Durability|DUR]].
+- Without 35 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Frostbitten 3 :
+- Applies a Debuff to the afflicted area:
+	- -6 [[Statistics#Agility|ATK SPD]].
+	- -6 [[Statistics#Durability|DUR]].
+- Without 55 [[Statistics#Durability|DUR]] the affected area will be unusable.
 ### Frostbitten 4 :
+- Applies a Debuff to the afflicted area:
+	- -10 [[Statistics#Agility|ATK SPD]].
+	- -10 [[Statistics#Durability|DUR]].
+- Without 70 [[Statistics#Durability|DUR]] the affected area will be unusable.
 
 ---
 # Type B Status Effects 
 ## Weakened
 
 ### Weakened 1 :
+- Applies a Debuff to the afflicted area:
+	- -1 [[Statistics#Strength|STR]].
+	- -1 [[Statistics#Durability|DUR]].
+- Without 10 [[Statistics#Focus|FOC]] the affected area will be unusable.
 ### Weakened 2 :
+- Applies a Debuff to the afflicted area:
+	- -3 [[Statistics#Strength|STR]].
+	- -3 [[Statistics#Durability|DUR]].
+- Without 20 [[Statistics#Focus|FOC]] the affected area will be unusable.
 ### Weakened 3 :
+- Applies a Debuff to the afflicted area:
+	- -4 [[Statistics#Strength|STR]].
+	- -4 [[Statistics#Durability|DUR]].
+- Without 30 [[Statistics#Focus|FOC]] the affected area will be unusable.
 ### Weakened 4 :
+- Applies a Debuff to the afflicted area:
+	- -5 [[Statistics#Strength|STR]].
+	- -5 [[Statistics#Durability|DUR]].
+- Without 40 [[Statistics#Focus|FOC]] the affected area will be unusable.
 
 ---
 ## Dazed 
 
 ### Dazed 1 :
+Applies a Debuff to the Individual:
+- -5 [[Statistics#Agility|Movement SPD]] for 6 seconds.
+- -5 [[Statistics#Agility|Block SPD]] for 12 seconds.
+- -5 [[Statistics#Agility|Dodge SPD]] for 10 seconds.
 ### Dazed 2 :
+Applies a Debuff to the Individual:
+- -5 [[Statistics#Agility|Movement SPD]] for 8 seconds.
+- -8 [[Statistics#Agility|Block SPD]] for 12 seconds.
+- -6 [[Statistics#Agility|Dodge SPD]] for 12 seconds.
 ### Dazed 3 :
+Applies a Debuff to the Individual:
+- -6 [[Statistics#Agility|Movement SPD]] for 12 seconds.
+- -8 [[Statistics#Agility|Block SPD]] for 18 seconds.
+- -8 [[Statistics#Agility|Dodge SPD]] for 18 seconds.
 ### Dazed 4 :
+Applies a Debuff to the Individual:
+- -6 [[Statistics#Agility|Movement SPD]] for 12 seconds.
+- -8 [[Statistics#Agility|Block SPD]] for 18 seconds.
+- -10 [[Statistics#Agility|Dodge SPD]] for 18 seconds.
 
 ---
 ## Stunned 
@@ -220,7 +284,7 @@ Defined as an internal loss of blood. Every turn a portion of remaining [[Statis
 ---
 ## Red Hot
 
-- ### Red Hot 1 :
-- ### Red Hot 2 :
-- ### Red Hot 3 :
-- ### Red Hot 4 :
+### Red Hot 1 :
+### Red Hot 2 :
+### Red Hot 3 :
+### Red Hot 4 :

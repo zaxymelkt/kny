@@ -55,5 +55,17 @@ tags:
 # Demon Systems
 
 # General Systems
+## Combat Systems
 
 - [[Statistics]]
+- [[Injuries]]
+- [[Status Effects]]
+- [[Combat System]]
+## Factions
+
+- [[Demon Slayer Corps]]
+- [[Demons]]
+
+## Flavour
+
+- [[Blood Type]]
