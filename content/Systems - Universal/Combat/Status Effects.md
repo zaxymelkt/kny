@@ -55,21 +55,21 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 	- -2 [[Statistics#Durability|DUR]].
 - Without 20 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -5.
-### Broken 2 :
+### Broken 2
 - Applies a Debuff to the afflicted area:
 	- -5 [[Statistics#Strength|STR]].
 	- -6 [[Statistics#Agility|Movement SPD]].
 	- -4 [[Statistics#Durability|DUR]].
 - Without 30 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -3.
-### Broken 3 :
+### Broken 3
 - Applies a Debuff to the afflicted area:
 	- -8 [[Statistics#Strength|STR]].
 	- -9 [[Statistics#Agility|Movement SPD]].
 	- -5 [[Statistics#Durability|DUR]].
 - Without 45 [[Statistics#Durability|DUR]] the affected area will be unusable.
 - Using or being hit in the affected area will afflict the damage taken initially -1.
-### Broken 4 :
+### Broken 4
 - Applies a Debuff to the afflicted area:
 	- -10 [[Statistics#Strength|STR]].
 	- -12 [[Statistics#Agility|Movement SPD]].
@@ -80,7 +80,7 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 ---
 ## Poisoned
 
-### Poisoned 1 :
+### Poisoned 1
 - For the first 3 turns (18 seconds):
 	- -2 [[Statistics#Perception|PER]].
 	- -3 [[Statistics#Focus|FOC]].
@@ -94,7 +94,7 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 	- -3 [[Statistics#Focus|FOC]].
 	- -1 [[Statistics#Agility|ATK SPD]].
 	- -4 [[Statistics#Agility|Movement SPD]].
-### Poisoned 2 :
+### Poisoned 2
 - For the first 4 turns (24 seconds):
 	- -4 [[Statistics#Perception|PER]].
 	- -5 [[Statistics#Focus|FOC]].
@@ -109,7 +109,7 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 	- -3 [[Statistics#Agility|ATK SPD]].
 	- -6 [[Statistics#Agility|Movement SPD]].
 	- -10 [[Statistics#Agility|MD]].
-### Poisoned 3 :
+### Poisoned 3
 - For the first 5 turns (30 seconds):
 	- -5 [[Statistics#Perception|PER]].
 	- -7 [[Statistics#Focus|FOC]].
@@ -124,7 +124,7 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 	- -4 [[Statistics#Agility|ATK SPD]].
 	- -8 [[Statistics#Agility|Movement SPD]].
 	- -20 [[Statistics#Agility|MD]].
-### Poisoned 4 :
+### Poisoned 4
 - For the first 5 turns (30 seconds):
 	- -5 [[Statistics#Perception|PER]].
 	- -7 [[Statistics#Focus|FOC]].
@@ -143,22 +143,22 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 ---
 ## Burned 
 
-### Burned 1 :
+### Burned 1
 - Applies a Debuff to the afflicted area:
 	- -1 [[Statistics#Strength|STR]].
 	- -3 [[Statistics#Durability|DUR]].
 - Without 10 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Burned 2 :
+### Burned 2
 - Applies a Debuff to the afflicted area:
 	- -3 [[Statistics#Strength|STR]].
 	- -6 [[Statistics#Durability|DUR]].
 - Without 30 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Burned 3 :
+### Burned 3
 - Applies a Debuff to the afflicted area:
 	- -5 [[Statistics#Strength|STR]].
 	- -12 [[Statistics#Durability|DUR]].
 - Without 60 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Burned 4 :
+### Burned 4
 - Applies a Debuff to the afflicted area:
 	- -6 [[Statistics#Strength|STR]].
 	- -15 [[Statistics#Durability|DUR]].
@@ -167,22 +167,22 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 ---
 ## Frostbitten 
 
-### Frostbitten 1 :
+### Frostbitten 1
 - Applies a Debuff to the afflicted area:
 	- -2 [[Statistics#Agility|ATK SPD]].
 	- -2 [[Statistics#Durability|DUR]].
 - Without 10 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Frostbitten 2 :
+### Frostbitten 2
 - Applies a Debuff to the afflicted area:
 	- -4 [[Statistics#Agility|ATK SPD]].
 	- -4 [[Statistics#Durability|DUR]].
 - Without 35 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Frostbitten 3 :
+### Frostbitten 3
 - Applies a Debuff to the afflicted area:
 	- -6 [[Statistics#Agility|ATK SPD]].
 	- -6 [[Statistics#Durability|DUR]].
 - Without 55 [[Statistics#Durability|DUR]] the affected area will be unusable.
-### Frostbitten 4 :
+### Frostbitten 4
 - Applies a Debuff to the afflicted area:
 	- -10 [[Statistics#Agility|ATK SPD]].
 	- -10 [[Statistics#Durability|DUR]].
@@ -192,22 +192,22 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 # Type B Status Effects 
 ## Weakened
 
-### Weakened 1 :
+### Weakened 1
 - Applies a Debuff to the afflicted area:
 	- -1 [[Statistics#Strength|STR]].
 	- -1 [[Statistics#Durability|DUR]].
 - Without 10 [[Statistics#Focus|FOC]] the affected area will be unusable.
-### Weakened 2 :
+### Weakened 2
 - Applies a Debuff to the afflicted area:
 	- -3 [[Statistics#Strength|STR]].
 	- -3 [[Statistics#Durability|DUR]].
 - Without 20 [[Statistics#Focus|FOC]] the affected area will be unusable.
-### Weakened 3 :
+### Weakened 3
 - Applies a Debuff to the afflicted area:
 	- -4 [[Statistics#Strength|STR]].
 	- -4 [[Statistics#Durability|DUR]].
 - Without 30 [[Statistics#Focus|FOC]] the affected area will be unusable.
-### Weakened 4 :
+### Weakened 4
 - Applies a Debuff to the afflicted area:
 	- -5 [[Statistics#Strength|STR]].
 	- -5 [[Statistics#Durability|DUR]].
@@ -216,22 +216,22 @@ Inflicted when experiencing a level of a bone break. Broken is a harsh Status Ef
 ---
 ## Dazed 
 
-### Dazed 1 :
+### Dazed 1
 Applies a Debuff to the Individual:
 - -5 [[Statistics#Agility|Movement SPD]] for 6 seconds.
 - -5 [[Statistics#Agility|Block SPD]] for 12 seconds.
 - -5 [[Statistics#Agility|Dodge SPD]] for 10 seconds.
-### Dazed 2 :
+### Dazed 2
 Applies a Debuff to the Individual:
 - -5 [[Statistics#Agility|Movement SPD]] for 8 seconds.
 - -8 [[Statistics#Agility|Block SPD]] for 12 seconds.
 - -6 [[Statistics#Agility|Dodge SPD]] for 12 seconds.
-### Dazed 3 :
+### Dazed 3
 Applies a Debuff to the Individual:
 - -6 [[Statistics#Agility|Movement SPD]] for 12 seconds.
 - -8 [[Statistics#Agility|Block SPD]] for 18 seconds.
 - -8 [[Statistics#Agility|Dodge SPD]] for 18 seconds.
-### Dazed 4 :
+### Dazed 4
 Applies a Debuff to the Individual:
 - -6 [[Statistics#Agility|Movement SPD]] for 12 seconds.
 - -8 [[Statistics#Agility|Block SPD]] for 18 seconds.
@@ -241,17 +241,49 @@ Applies a Debuff to the Individual:
 ## Stunned 
 
 ### Stunned 1 :
+Applies a Debuff to the individual:
+- [[Statistics#Agility|SPD]] is set to 0 for 3 seconds.
+- -5 [[Statistics#Agility|SPD]] for 6 seconds.
+- -3 [[Statistics#Agility|SPD]] for 12 seconds.
 ### Stunned 2 :
+Applies a Debuff to the individual:
+- [[Statistics#Agility|SPD]] is set to 0 for 4 seconds.
+- -8 [[Statistics#Agility|SPD]] for 12 seconds.
+- -5 [[Statistics#Agility|SPD]] for 18 seconds.
 ### Stunned 3 :
+Applies a Debuff to the individual:
+- [[Statistics#Agility|SPD]] is set to 0 for 5 seconds.
+- -10 [[Statistics#Agility|SPD]] for 18 seconds.
+- -8 [[Statistics#Agility|SPD]] for 24 seconds.
 ### Stunned 4 :
+Applies a Debuff to the individual:
+- [[Statistics#Agility|SPD]] is set to 0 for 6 seconds.
+- -12 [[Statistics#Agility|SPD]] for 24 seconds.
+- -10 [[Statistics#Agility|SPD]] for 30 seconds.
 
 ---
 ## Near-Death 
 
-### Near-Death 1 :
-### Near-Death 2 :
-### Near-Death 3 :
-### Near-Death 4 :
+### Near-Death 1
+Applies the following Debuffs:
+- Reduces [[Statistics#Durability|SHP]] by 5 every 6 seconds.
+- [[Statistics#Stamina|STAM]] recovery is paused.
+- [[Statistics#Time Reduction|Time Reduction]] is prevented.
+### Near-Death 2
+Applies the following Debuffs:
+- Reduces [[Statistics#Durability|SHP]] by 7 every 6 seconds.
+- [[Statistics#Stamina|STAM]] recovery is paused.
+- [[Statistics#Time Reduction|Time Reduction]] is prevented.
+### Near-Death 3
+Applies the following Debuffs:
+- Reduces [[Statistics#Durability|SHP]] by 9 every 6 seconds.
+- [[Statistics#Stamina|STAM]] recovery is paused.
+- [[Statistics#Time Reduction|Time Reduction]] is prevented.
+### Near-Death 4
+Applies the following Debuffs:
+- Reduces [[Statistics#Durability|SHP]] by 11 every 6 seconds.
+- [[Statistics#Stamina|STAM]] recovery is paused.
+- [[Statistics#Time Reduction|Time Reduction]] is prevented.
 
 ---
 # Type C Status Effects
@@ -271,20 +303,73 @@ Defined as an internal loss of blood. Every turn a portion of remaining [[Statis
 -  Reduces [[Statistics#Durability|HP]] and [[Statistics#Stamina|STAM]] by 20% every turn.
 
 ---
-## Death 
-
----
 ## Paralysed
 
-### Paralysed 1 :
-### Paralysed 2 :
-### Paralysed 3 :
-### Paralysed 4 :
+### Paralysed 1
+
+Applies the following debuffs for 12 seconds:
+- -3 [[Statistics#Agility|ATK SPD]]
+- -2 [[Statistics#Focus|FOC]]
+- -1 [[Statistics#Perception|PER]]
+- -1 Seconds per [[Combat System#Turns|turn]].
+### Paralysed 2
+
+Applies the following debuffs for 18 seconds:
+- -3 [[Statistics#Agility|ATK SPD]]
+- -3 [[Statistics#Focus|FOC]]
+- -1 [[Statistics#Perception|PER]]
+- -1 Seconds per [[Combat System#Turns|turn]].
+### Paralysed 3
+
+Applies the following debuffs for 30 seconds:
+- -3 [[Statistics#Agility|ATK SPD]]
+- -4 [[Statistics#Focus|FOC]]
+- -2 [[Statistics#Perception|PER]]
+- -1.5 Seconds per [[Combat System#Turns|turn]].
+### Paralysed 4
+
+Applies the following debuffs for 60 seconds:
+- -4 [[Statistics#Agility|ATK SPD]]
+- -5 [[Statistics#Focus|FOC]]
+- -3 [[Statistics#Perception|PER]]
+- -2 Seconds per [[Combat System#Turns|turn]].
 
 ---
 ## Red Hot
 
-### Red Hot 1 :
-### Red Hot 2 :
-### Red Hot 3 :
-### Red Hot 4 :
+### Red Hot 1
+
+Applies the following debuffs to [[Demons]]: 
+- Halts a demon's [[Regeneration]] for 1 second.
+- Reduces a demon's [[Statistics#Durability|SHP]] by 6 every cut.
+
+Apples the following buffs to a [[Demon Slayer Corps|Demon Slayer]]:
+- +4 [[Statistics#Strength|ATK STR]].
+- +5 [[Statistics#Strength|Grip STR]].
+### Red Hot 2
+
+Applies the following debuffs to [[Demons]]: 
+- Halts a demon's [[Regeneration]] for 2 seconds.
+- Reduces a demon's [[Statistics#Durability|SHP]] by 7 every cut.
+
+Apples the following buffs to a [[Demon Slayer Corps|Demon Slayer]]:
+- +5 [[Statistics#Strength|ATK STR]].
+- +8 [[Statistics#Strength|Grip STR]].
+### Red Hot 3
+
+Applies the following debuffs to [[Demons]]: 
+- Halts a demon's [[Regeneration]] for 2.5 seconds.
+- Reduces a demon's [[Statistics#Durability|SHP]] by 8 every cut.
+
+Apples the following buffs to a [[Demon Slayer Corps|Demon Slayer]]:
+- +6 [[Statistics#Strength|ATK STR]].
+- +10 [[Statistics#Strength|Grip STR]].
+### Red Hot 4
+
+Applies the following debuffs to [[Demons]]: 
+- Halts a demon's [[Regeneration]] for 3 seconds.
+- Reduces a demon's [[Statistics#Durability|SHP]] by 10 every cut.
+
+Apples the following buffs to a [[Demon Slayer Corps|Demon Slayer]]:
+- +7 [[Statistics#Strength|ATK STR]].
+- +15 [[Statistics#Strength|Grip STR]].
