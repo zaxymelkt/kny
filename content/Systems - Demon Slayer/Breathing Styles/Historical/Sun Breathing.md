@@ -32,6 +32,23 @@ Learning and Mastering the different forms of Sun Breathing is an impossible tas
 | [[Sun Breathing#Twelfth Form Flame Dance\|Flame Dance]]                              | 45 FOC      | STW Lv4        |
 | [[Sun Breathing#Kagura Ritual\|Kagura ritual]]                                       | 50 FOC      | Selfless State |
 
+## Action Time 
+| Form                                                                                 | Time |
+| ------------------------------------------------------------------------------------ | ---- |
+| [[Sun Breathing#First Form: Dance\|Dance]]                                           | 2s   |
+| [[Sun Breathing#Second Form: Clear Blue Sky\|Clear Blue Sky]]                        |      |
+| [[Sun Breathing#Third Form: Raging Sun\|Raging Sun]]                                 |      |
+| [[Sun Breathing#Fourth Form: Burning Bones, Summer Sun\|Burning Bones, Summer Sun]]  |      |
+| [[Sun Breathing#Fifth Form: Setting Sun Transformation\|Setting Sun Transformation]] |      |
+| [[Sun Breathing#Sixth Form: Solar Heat Haze\|Solar Heat Haze]]                       |      |
+| [[Sun Breathing#Seventh Form: Beneficent Radiance\|Beneficent Radiance]]             |      |
+| [[Sun Breathing#Eight Form: Sunflower Thrust\|Sunflower Thrust]]                     |      |
+| [[Sun Breathing#Ninth Form: Sun Halo Dragon Head Dance\|Sun Halo Dragon Head Dance]] |      |
+| [[Sun Breathing#Tenth Form: Fire Wh\|Fire Wheel]]                                    |      |
+| [[Sun Breathing#Elventh Form: Fake Rainbow\|Fake Rainbow]]                           |      |
+| [[Sun Breathing#Twelfth Form Flame Dance\|Flame Dance]]                              |      |
+| [[Sun Breathing#Kagura Ritual\|Kagura ritual]]                                       |      |
+
 ## Forms
 
 > [!important] Sun Breathing Property
