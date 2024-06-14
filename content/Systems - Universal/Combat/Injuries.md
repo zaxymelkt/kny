@@ -35,7 +35,7 @@ In the heat of battle, first-degree burns can occur from the intense flames emit
 ### First-Degree Frostbitten
 First-degree frostbite is a risk for those unprepared for the harsh winter. Demon slayers patrolling these areas must be vigilant, as the initial stages of frostbite—redness, tingling, and numbness—can precede more severe complications if not addressed promptly. Results in [[Status Effects#Frostbitten 1|Frostbitten 1]].
 ### Low Severity Poison
-Exposure to low-severity poisons is a constant concern for demon slayers, especially when battling demons known to use toxic attacks or when encountering traps laid by demons. These mild symptoms, though concerning, they do not threaten life. Results in [[Status Effects#Dazed 1|Dazed 1]].
+Exposure to low-severity poisons is a constant concern for demon slayers, especially when battling demons known to use toxic attacks or when encountering traps laid by demons. These mild symptoms, though concerning, they do not threaten life. Results in [[Status Effects#Poisoned 1|Poisoned 1]].
 ### Mild Confusion
 The mental strain of constant battle and the weight of protecting humanity from demons can lead to moments of mild confusion among demon slayers. This state, characterised by difficulty focusing or making decisions, underscores the psychological toll of their mission. Results in [[Status Effects#Dazed 1|Dazed 1]].
 
@@ -53,7 +53,7 @@ Second-degree burns, also known as partial thickness burns, affect both the oute
 ### Second-Degree Frostbitten
 Second-degree frostbite affects deeper layers of the skin and may extend into the muscle and bone. Symptoms include white or greyish-yellow patches of skin, blistering, and severe pain followed by numbness. Results in [[Status Effects#Frostbitten 2|Frostbitten 2]] and [[Status Effects#Weakened 2|Weakened 2]].
 ### Moderate Severity Poison
-Moderate severity poisonings involve exposure to substances that cause moderate symptoms, such as severe nausea, vomiting, diarrhoea, abdominal pain, and drowsiness. These poisons can be life-threatening if not treated promptly, especially if the poisoned substance is toxic to the liver, kidneys, or nervous system. Results in [[Status Effects#Dazed 2|Dazed 2]], [[Status Effects#Internal Bleed 1|Internal Bleed 1]].
+Moderate severity poisonings involve exposure to substances that cause moderate symptoms, such as severe nausea, vomiting, diarrhoea, abdominal pain, and drowsiness. These poisons can be life-threatening if not treated promptly, especially if the poisoned substance is toxic to the liver, kidneys, or nervous system. Results in [[Status Effects#Poisoned 2|Poisoned 2]], [[Status Effects#Internal Bleed 1|Internal Bleed 1]].
 ### Moderate Cognitive Impairment
 Moderate cognitive impairment is a significant decline in cognitive abilities that interferes with daily activities but does not meet the criteria for dementia. Symptoms may include memory problems, difficulty concentrating, reduced problem-solving ability, and changes in mood or behaviour. Results in [[Status Effects#Paralysed 2|Paralysed 2]].
 
@@ -71,7 +71,7 @@ Third-degree burns, also known as full-thickness burns, destroy the epidermis an
 ### Third-Degree Frostbitten
 Third-degree frostbite is the most severe form of frostbite, affecting not only the skin and underlying tissues but also the muscles and bones. Symptoms include hard, pale, and numb skin; blisters that may rupture and leave blackened, dead tissue beneath; and severe pain followed by numbness. Results in [[Status Effects#Frostbitten 3|Frostbitten 3]] and [[Status Effects#Paralysed 1|Paralysed 1]].
 ### High Severity Poison
-High severity poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrhythmias, neurological abnormalities, and gastrointestinal hemorrhaging. Results in [[Status Effects#Dazed 3|Dazed 3]], [[Status Effects#Internal Bleed 2|Internal Bleed 2]], and [[Status Effects#Paralysed 1|Paralysed 1]].
+High severity poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrhythmias, neurological abnormalities, and gastrointestinal hemorrhaging. Results in [[Status Effects#Poisoned 3|Poisoned 3]], [[Status Effects#Internal Bleed 2|Internal Bleed 2]], and [[Status Effects#Paralysed 1|Paralysed 1]].
 ### Severe Cognitive Impairment
 Severe cognitive impairment represents a significant decline in cognitive functions that substantially impairs everyday activities and independence. It is a step beyond moderate cognitive impairment and may be indicative of early-stage dementia or another neurodegenerative disease. Symptoms include profound memory loss, difficulty with complex tasks, disorientation, and personality changes. Results in [[Status Effects#Paralysed 3|Paralysed 3]].
 
@@ -89,7 +89,7 @@ Fourth-degree burns are the most severe type of burn, extending through all laye
 ### Fourth-Degree Frostbitten
 Fourth-degree frostbite is the most severe form of frostbite, affecting not only the skin and underlying tissues but also the muscles, bones, and nerves. Symptoms include hard, pale, and numb skin; blisters that may rupture, revealing blackened, dead tissue; and severe pain followed by numbness. Results in [[Status Effects#Frostbitten 4|Frostbitten 4]] and [[Status Effects#Paralysed 2|Paralysed 2]].
 ### Severe Poison
-Severe poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Near-Death 2|Near-Death 2]] and [[Status Effects#Internal Bleed 4|Internal Bleed 4]].
+Severe poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Poisoned 4|Poisoned 4]] and [[Status Effects#Internal Bleed 4|Internal Bleed 4]].
 ### Persistent Cognitive Deficit
 Persistent cognitive deficit refers to a long-term decline in cognitive abilities that significantly impacts daily functioning and quality of life. This condition may be due to neurological disorders, brain injury, or other causes. Results in [[Status Effects#Paralysed 4|Paralysed 4]].
 
@@ -107,7 +107,7 @@ Electrical burns occur when electrical current passes through the body, causing 
 ### Chilblains
 Chilblains, also known as pernio, are small, purplish swellings that occur on the skin, typically on the hands and feet, in response to cold temperatures. They are caused by poor circulation and can be prevented by keeping the affected areas warm and moisturised. Results in [[Status Effects#Frostbitten 3|Frostbitten 3]], [[Status Effects#Paralysed 2|Paralysed 2]] and [[Status Effects#Weakened 4|Weakened 3]].
 ### Critical Poison
-Critical poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Dazed 3|Dazed 3]], [[Status Effects#Internal Bleed 4|Internal Bleed 4]], and [[Status Effects#Paralysed 3|Paralysed 3]].
+Critical poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Poisoned 4|Poisoned 4]], [[Status Effects#Internal Bleed 4|Internal Bleed 4]], and [[Status Effects#Paralysed 3|Paralysed 3]].
 ### Personality Changes
 Personality changes can occur as a result of neurological disorders, brain injury, or other causes, leading to significant alterations in behavior, mood, and social functioning
 
@@ -125,6 +125,6 @@ Inhalation burns occur when hot gases, smoke, or chemicals are breathed into the
 ### Hypothermia
 Hypothermia is a critical drop in core body temperature, often resulting from prolonged exposure to cold environments. Symptoms range from shivering and confusion to unconsciousness and cardiac arrest. Results in [[Status Effects#Frostbitten 2|Frostbitten 4]], [[Status Effects#Weakened 2|Weakened 2]] and [[Status Effects#Paralysed 2|Paralysed 2]].
 ### Fatal Poison
-Fatal poisonings involve exposure to substances that cause severe systemic effects, leading to organ failure, coma, and death. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Near-Death 4|Near-Death 4]].
+Fatal poisonings involve exposure to substances that cause severe systemic effects, leading to organ failure, coma, and death. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Poisoned 4|Poisoned 4]] and [[Status Effects#Near-Death 4|Near-Death 4]].
 ### Severe Brain Damage
 Severe brain damage refers to injuries that cause significant impairment to brain function, often resulting from traumatic head injuries, strokes, or other neurological conditions. Symptoms can include altered consciousness, memory loss, speech difficulties, and motor impairments. [[Status Effects#Paralysed 4|Paralysed 4]] and [[Status Effects#Internal Bleed 2|Internal Bleed 2]].
