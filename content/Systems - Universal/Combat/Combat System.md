@@ -23,7 +23,7 @@ Time: 1s
 Effect: Use any single basic, punch, kick, stab, etc.
 
 **Breath Form**
-Time: 2s
+Time: Varies
 Effect: Use any one form.
 
 ## 

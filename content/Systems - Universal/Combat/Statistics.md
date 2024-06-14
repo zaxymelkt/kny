@@ -10,7 +10,7 @@ Statistics (Stats) are a numerical representation of an individual's ability in 
 
 - For Demon Slayers, their stats range between a value of 1 to 60, a demon slayer is considered [[Hashira]] level if more than 4 stats are estimated beyond 40.
 
-- For Demons, their stats range between a value of 20 to 90. A Demon is considered [[12 Kizuki]] level if more than 4 stats are estimated beyond 50.
+- For Demons, their stats range between a value of 20 to 90. A Demon is considered [[Twelve Kizuki]] level if more than 4 stats are estimated beyond 50.
 
 ---
 
@@ -42,6 +42,17 @@ Agility represents the swift movement and dexterity of an individual, encompassi
 > **Dodge Speed** (Dodge SPD) > _A subcategory of AGL, dictating the speed at which an individual can move their entire body to evade an attack._
 >
 > **Attack Speed** (ATK SPD / Swing SPD) > _A subcategory of AGL, sometimes referred to as swing SPD, dictating the speed at which an individual can released a physical attack: such as a swing of a Nichirin blade._
+
+### Time Reduction 
+At a certain AGL Demons and Demon Slayers preform Base Actions at an decreased speed.
+
+| Invested  | Block Reduce. | Dash Reduce.  | ATK Reduce.   | Breath Form Reduce. |
+| --------- | ------------- | ------------- | ------------- | ------------------- |
+| 30 Points | -0.25 seconds | -0.5 seconds  | -0.25 seconds | -0 seconds          |
+| 40 Points | -0.5 seconds  | -0.75 seconds | -0.5 seconds  | -0.5 seconds        |
+| 60 Points | -0.5 seconds  | -1 seconds    | -0.5 seconds  | -1 seconds          |
+| 75 Points | -0.75 seconds | -1.25 seconds | -0.5 seconds  | -2 seconds          |
+| 90 Points | -1 second     | -1.5 seconds  | -0.5 seconds  | -3 seconds          |
 
 ---
 
@@ -78,21 +89,21 @@ Strength (STR) symbolises the raw physical might of an individual, embodying the
 
 Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsulating both their physical pain tolerance and their mental fortitude. It is analogous to health levels, indicating the amount of punishment an individual can endure before succumbing to injury or death. While demons possess the remarkable ability to regenerate quickly, inflicting sufficient damage in a brief span can still prove lethal. For Demon Slayers, durability signifies the capacity to persist and fight through injuries that would normally incapacitate others. This attribute is a blending the realms of the physical and the mental. Durability, therefore, represents the overall endurance of both body and mind, with the ability to harness this endurance being a function of Focus.
 
-| Invested  | HP  | SHP | Injury Resist | Injury Ign. |
-| --------- | --- | --- | ------------- | ----------- |
-| 1 Point   | 3   | 2   | N/A           | N/A         |
-| 5 Points  | 15  | 10  | N/A           | N/A         |
-| 10 Points | 30  | 20  | Level 1       | N/A         |
-| 15 Points | 45  | 30  | Level 1       | N/A         |
-| 20 Points | 60  | 40  | Level 1       | N/A         |
-| 25 Points | 75  | 50  | Level 2       | N/A         |
-| 30 Points | 90  | 60  | Level 2       | N/A         |
-| 35 Points | 105 | 70  | Level 2       | N/A         |
-| 40 Points | 120 | 80  | Level 3       | Level 1     |
-| 45 Points | 135 | 90  | Level 3       | Level 1     |
-| 50 Points | 150 | 100 | Level 3       | Level 1     |
-| 55 Points | 165 | 110 | Level 4       | Level 2     |
-| 60 Points | 180 | 120 | Level 4       | Level 2     |
+| Invested  | HP  | SHP | Injury Resist | [[Status Effects\|Status]] Imm. |
+| --------- | --- | --- | ------------- | ------------------------------- |
+| 1 Point   | 3   | 2   | N/A           | N/A                             |
+| 5 Points  | 15  | 10  | N/A           | N/A                             |
+| 10 Points | 30  | 20  | Level 1       | N/A                             |
+| 15 Points | 45  | 30  | Level 1       | N/A                             |
+| 20 Points | 60  | 40  | Level 1       | N/A                             |
+| 25 Points | 75  | 50  | Level 2       | N/A                             |
+| 30 Points | 90  | 60  | Level 2       | N/A                             |
+| 35 Points | 105 | 70  | Level 2       | N/A                             |
+| 40 Points | 120 | 80  | Level 3       | Level 1                         |
+| 45 Points | 135 | 90  | Level 3       | Level 1                         |
+| 50 Points | 150 | 100 | Level 3       | Level 1                         |
+| 55 Points | 165 | 110 | Level 4       | Level 2                         |
+| 60 Points | 180 | 120 | Level 4       | Level 2                         |
 
 > [!abstract] Substats
 > **Health** (HP) _A subcategory of DUR, dictating the amount of life-force or health an individual has. HP is x3 the point investment into DUR._
@@ -101,7 +112,7 @@ Durability (DUR) reflects the resilience and vitality of a Demon Slayer, encapsu
 >
 > **Injury Resistance** (Injury Resist.) _A subcategory of DUR, dictating the injury level an individual can continue to fight through; often referred to as pain tolerance._
 >
-> **Injury Immunity** (Injury Ign.) _A subcategory of DUR, dictating the injury level and individual is unaffected by in terms of statistical debuffs._
+> **Status Immunity** (Status Imm.) _A subcategory of DUR, dictating the status effect level an individual is unaffected by in terms of statistical debuffs._
 
 ---
 
@@ -155,9 +166,9 @@ Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict
 > [!abstract] Substats
 > **Visible Speed** (Vis. SPD) _A subcategory of PER, dictating the amount of speed above an individual can react to without a debuff. This substat is often referred to as Favourable Evasion Zone._
 >
-> **Blurred Speed** (Blur. SPD) _A subcategory of PER, dictating the limit of speed an individual can react to. When reacting to blurred movement, an individual gains -2 Block SPD; losing the ability to dodge. This substate is often referred to as Reaction Speed (RAC SPD)_
+> **Blurred Speed** (Blur. SPD) _A subcategory of PER, dictating the limit of speed an individual can react to. When reacting to blurred movement, an individual gains -2 Block SPD; losing the ability to dodge. This substat is often referred to as Reaction Speed (RAC SPD)_
 >
-> **Invisible Speed** (Invis. SPD) _A subcategory of PER, dictating the speed at which movement becomes impossible to focus on. This substate is oftened referred to as Unfavourable Evasion Zone._
+> **Invisible Speed** (Invis. SPD) _A subcategory of PER, dictating the speed at which movement becomes impossible to focus on. This substat is often referred to as Unfavourable Evasion Zone._
 >
 > **Sensory Range** (Sense Ran.) _A subcategory of PER, dictating the distance an individual can see (V), hear (H), smell (S), touch (F), or taste (T)._
 
@@ -165,23 +176,23 @@ Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict
 
 ## Focus
 
-Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, reflecting their capacity to persevere even when on the brink of defeat. It is closely tied to their ability to wield their Nichirin blade effectively, preventing it from shattering under the force of enemy attacks. Additionally, focus is synonymous with technique, as it influences a Demon Slayer's mastery over their chosen Breathing Style. A lapse in focus can significantly impair a Demon Slayer's performance, underscoring the necessity of maintaining unwavering concentration during combat. A Demon Slayer could be as powerful, physically, as an Upper Moon, however, without proper Focus, their body would never make a step forward.
+Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, reflecting their capacity to persevere even when on the brink of defeat. It is closely tied to their ability to wield their [[Nichirin]] blade effectively, preventing it from shattering under the force of enemy attacks. Additionally, focus is synonymous with technique, as it influences a Demon Slayer's mastery over their chosen Breathing Style. A lapse in focus can significantly impair a Demon Slayer's performance, underscoring the necessity of maintaining unwavering concentration during combat. A Demon Slayer could be as powerful, physically, as an Upper Moon, however, without proper Focus, their body would never make a step forward.
 
-| Invested  | Indiv. FOC | Obj. FOC | Daze | Stunned | Unconsious |
-| --------- | ---------- | -------- | ---- | ------- | ---------- |
-| 1 Point   | 1          | 1        | +3   | +5      | +7         |
-| 5 Points  | 1          | 2        | +5   | +7      | +9         |
-| 10 Points | 2          | 4        | +7   | +9      | +11        |
-| 15 Points | 2          | 6        | +9   | +11     | +13        |
-| 20 Points | 2          | 8        | +11  | +13     | +15        |
-| 25 Points | 3          | 10       | +13  | +15     | +17        |
-| 30 Points | 3          | 12       | +15  | +17     | +21        |
-| 35 Points | 4          | 14       | +17  | +21     | +23        |
-| 40 Points | 4          | 16       | +21  | +23     | +25        |
-| 45 Points | 4          | 18       | +23  | +25     | +27        |
-| 50 Points | 5          | 20       | +25  | +27     | +29        |
-| 55 Points | 5          | 22       | +27  | +29     | +31        |
-| 60 Points | 6          | 24       | +29  | +31     | +33        |
+| Invested  | Indiv. FOC | Obj. FOC | Nichirin DUR | Unconsious |
+| --------- | ---------- | -------- | ------------ | ---------- |
+| 1 Point   | 1          | 1        | +3           | +7         |
+| 5 Points  | 1          | 2        | +5           | +9         |
+| 10 Points | 2          | 4        | +7           | +11        |
+| 15 Points | 2          | 6        | +9           | +13        |
+| 20 Points | 2          | 8        | +11          | +15        |
+| 25 Points | 3          | 10       | +13          | +17        |
+| 30 Points | 3          | 12       | +15          | +21        |
+| 35 Points | 4          | 14       | +17          | +23        |
+| 40 Points | 4          | 16       | +21          | +25        |
+| 45 Points | 4          | 18       | +23          | +27        |
+| 50 Points | 5          | 20       | +25          | +29        |
+| 55 Points | 5          | 22       | +27          | +31        |
+| 60 Points | 6          | 24       | +29          | +33        |
 
 > [!abstract] Substats
 > **Individual Focus** (Indiv. FOC) _A subcategory of FOC, dictating the number of individuals oneself can keep track of and or work along side with in a given turn._

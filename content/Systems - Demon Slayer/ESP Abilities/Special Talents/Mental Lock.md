@@ -32,21 +32,21 @@ Levels are unlocked through accumulated Damage across all battles.
 
 
 ## Durability 
-| Invested  | HP  | SHP | Injury Resist | Injury Ign. |
-| --------- | --- | --- | ------------- | ----------- |
-| 20 Point  | 30  | 2   | Level 1       | -           |
-| 25 Points | 60  | 10  | Level 1       | -           |
-| 30 Points | 90  | 20  | Level 1       | -           |
-| 35 Points | 120 | 30  | Level 2       | Level 1     |
-| 40 Points | 150 | 40  | Level 2       | Level 1     |
-| 45 Points | 180 | 50  | Level 3       | Level 2     |
-| 50 Points | 210 | 60  | Level 3       | Level 2     |
-| 75 Points | 270 | 70  | Level 3       | Level 2     |
-| 80 Points | 310 | 80  | Level 4       | Level 2     |
-| 85 Points | 350 | 90  | Level 4       | Level 2     |
-| 90 Points | 400 | 100 | Level 5       | Level 2     |
-| 85 Points | 330 | 110 | Level 5       | Level 3     |
-| 90 Points | 360 | 120 | Level 6       | Level 3     |
+| Invested  | HP  | SHP | Injury Resist | [[Status Effects\|Status]] Imm. |
+| --------- | --- | --- | ------------- | ------------------------------- |
+| 20 Point  | 30  | 10  | Level 1       | -                               |
+| 25 Points | 60  | 20  | Level 1       | -                               |
+| 30 Points | 90  | 40  | Level 1       | -                               |
+| 35 Points | 120 | 60  | Level 2       | Level 1                         |
+| 40 Points | 150 | 80  | Level 2       | Level 1                         |
+| 45 Points | 180 | 100 | Level 3       | Level 2                         |
+| 50 Points | 210 | 120 | Level 3       | Level 2                         |
+| 75 Points | 270 | 140 | Level 3       | Level 2                         |
+| 80 Points | 310 | 160 | Level 4       | Level 2                         |
+| 85 Points | 350 | 180 | Level 4       | Level 2                         |
+| 90 Points | 400 | 200 | Level 5       | Level 2                         |
+| 85 Points | 330 | 220 | Level 5       | Level 3                         |
+| 90 Points | 360 | 240 | Level 5       | Level 3                         |
 
 > [!info] Limit Break
 > When an individual with Mental Lock enters a new level, their HP is restored by 50 points. This restoration cannot bring them past half of their total health.
