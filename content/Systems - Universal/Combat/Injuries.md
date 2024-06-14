@@ -35,9 +35,9 @@ In the heat of battle, first-degree burns can occur from the intense flames emit
 ### First-Degree Frostbitten
 First-degree frostbite is a risk for those unprepared for the harsh winter. Demon slayers patrolling these areas must be vigilant, as the initial stages of frostbite—redness, tingling, and numbness—can precede more severe complications if not addressed promptly. Results in [[Status Effects#Frostbitten|Frostbitten]] 1.
 ### Low Severity Poison
-Exposure to low-severity poisons is a constant concern for demon slayers, especially when battling demons known to use toxic attacks or when encountering traps laid by demons. These mild symptoms, though concerning, they do not threaten life. [[Status Effects#Dazed|Dazed]] 1.
+Exposure to low-severity poisons is a constant concern for demon slayers, especially when battling demons known to use toxic attacks or when encountering traps laid by demons. These mild symptoms, though concerning, they do not threaten life. Results in [[Status Effects#Dazed|Dazed]] 1.
 ### Mild Confusion
-The mental strain of constant battle and the weight of protecting humanity from demons can lead to moments of mild confusion among demon slayers. This state, characterised by difficulty focusing or making decisions, underscores the psychological toll of their mission.
+The mental strain of constant battle and the weight of protecting humanity from demons can lead to moments of mild confusion among demon slayers. This state, characterised by difficulty focusing or making decisions, underscores the psychological toll of their mission. Results in [[Status Effects#Dazed|Dazed]] 1.
 
 ---
 ## Level 2 Injuries
@@ -55,7 +55,7 @@ Second-degree frostbite affects deeper layers of the skin and may extend into th
 ### Moderate Severity Poison
 Moderate severity poisonings involve exposure to substances that cause moderate symptoms, such as severe nausea, vomiting, diarrhoea, abdominal pain, and drowsiness. These poisons can be life-threatening if not treated promptly, especially if the poisoned substance is toxic to the liver, kidneys, or nervous system. Results in [[Status Effects#Dazed|Dazed]] 2, [[Status Effects#Internal Bleed|Internal Bleed]] 1.
 ### Moderate Cognitive Impairment
-Moderate cognitive impairment is a significant decline in cognitive abilities that interferes with daily activities but does not meet the criteria for dementia. Symptoms may include memory problems, difficulty concentrating, reduced problem-solving ability, and changes in mood or behavior. 
+Moderate cognitive impairment is a significant decline in cognitive abilities that interferes with daily activities but does not meet the criteria for dementia. Symptoms may include memory problems, difficulty concentrating, reduced problem-solving ability, and changes in mood or behaviour. Results in [[Status Effects#Paralysed|Paralysed]] 2.
 
 ---
 ## Level 3 Injuries
@@ -73,7 +73,7 @@ Third-degree frostbite is the most severe form of frostbite, affecting not only 
 ### High Severity Poison
 High severity poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrhythmias, neurological abnormalities, and gastrointestinal hemorrhaging. Results in [[Status Effects#Dazed|Dazed]] 3, [[Status Effects#Internal Bleed|Internal Bleed]] 2, and [[Status Effects#Paralysed|Paralysed]] 1.
 ### Severe Cognitive Impairment
-Severe cognitive impairment represents a significant decline in cognitive functions that substantially impairs everyday activities and independence. It is a step beyond moderate cognitive impairment and may be indicative of early-stage dementia or another neurodegenerative disease. Symptoms include profound memory loss, difficulty with complex tasks, disorientation, and personality changes.
+Severe cognitive impairment represents a significant decline in cognitive functions that substantially impairs everyday activities and independence. It is a step beyond moderate cognitive impairment and may be indicative of early-stage dementia or another neurodegenerative disease. Symptoms include profound memory loss, difficulty with complex tasks, disorientation, and personality changes. Results in [[Status Effects#Paralysed|Paralysed]] 3.
 
 ---
 ## Level 4 Injuries
@@ -91,7 +91,7 @@ Fourth-degree frostbite is the most severe form of frostbite, affecting not only
 ### Severe Poison
 Severe poisonings involve exposure to substances that cause severe systemic effects, potentially leading to organ failure, coma, and death if not treated promptly. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Dazed|Dazed]] 3, [[Status Effects#Internal Bleed|Internal Bleed]] 3, and [[Status Effects#Paralysed|Paralysed]] 2.
 ### Persistent Cognitive Deficit
-Persistent cognitive deficit refers to a long-term decline in cognitive abilities that significantly impacts daily functioning and quality of life. This condition may be due to neurological disorders, brain injury, or other causes.
+Persistent cognitive deficit refers to a long-term decline in cognitive abilities that significantly impacts daily functioning and quality of life. This condition may be due to neurological disorders, brain injury, or other causes. Results in [[Status Effects#Paralysed|Paralysed]] 4.
 
 ---
 ## Level 5 Injuries
@@ -127,4 +127,4 @@ Hypothermia is a critical drop in core body temperature, often resulting from pr
 ### Fatal Poison
 Fatal poisonings involve exposure to substances that cause severe systemic effects, leading to organ failure, coma, and death. Symptoms can include severe respiratory distress, cardiac arrest, neurological abnormalities, and gastrointestinal bleeding. Results in [[Status Effects#Stunned|Stunned]] 2, [[Status Effects#Internal Bleed|Internal Bleed]] 3, and [[Status Effects#Paralysed|Paralysed]] 3.
 ### Severe Brain Damage
-Severe brain damage refers to injuries that cause significant impairment to brain function, often resulting from traumatic head injuries, strokes, or other neurological conditions. Symptoms can include altered consciousness, memory loss, speech difficulties, and motor impairments.
+Severe brain damage refers to injuries that cause significant impairment to brain function, often resulting from traumatic head injuries, strokes, or other neurological conditions. Symptoms can include altered consciousness, memory loss, speech difficulties, and motor impairments. [[Status Effects#Paralysed|Paralysed]] 4 and [[Status Effects#Internal Bleed|Internal Bleed]] 2.
