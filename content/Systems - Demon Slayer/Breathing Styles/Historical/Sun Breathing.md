@@ -34,6 +34,12 @@ Learning and Mastering the different forms of Sun Breathing is an impossible tas
 
 ## Forms
 
+> [!important] Sun Breathing Property
+> Sun Breathing Techniques result in some level of burn depending on the difference of FOC to a demon's DUR. Depending on the level of burn, the demon's regeneration will be slowed in that location by a certain turn count.
+> 
+> 
+
+
 ### First Form: Dance
 
 The user performs a singular downwards vertical slash in an arcing motion.

@@ -191,3 +191,6 @@ Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, r
 > **Tolerance** (Tol.) _A subcategory of FOC, dictating the amount of strength an attack requires to inflict the Daze, Stunned, or Unconsious status effect. A Nichirin Blade can be broken if an attack would inflict [Unconsious] on the wielder._
 
 ---
+# Damage Buff Formula
+
+Base + ( [[Combat System]] / [[Total Concentration Breathing]] ) + [[Status Effects#Type A Status Effects|Type A S.E]] + [[Status Effects#Type B Status Effects|Type B S.E]] + [[Status Effects#Type C Status Effects|Type C S.E]] + [[Demon Slayer Mark]] + [[Nichirin]] + [[Repetitive Action]]  + [[ESP Index|ESP Abilities]]

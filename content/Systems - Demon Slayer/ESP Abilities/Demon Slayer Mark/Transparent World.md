@@ -69,7 +69,7 @@ Focusing your eyes onto the movement of a target's movement, you gain slight adv
 - +11 [[Statistics#Perception|PER]]
 - +7 [[Statistics#Agility|ATK SPD]]
 - +7 [[Statistics#Agility|Dodge SPD]]
-- +8 [[Statistics#Agility|Block SPD]]]]
+- +8 [[Statistics#Agility|Block SPD]]
 
 **Active Buffs**
 - +14 [[Statistics#Perception|PER]]

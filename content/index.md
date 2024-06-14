@@ -8,14 +8,14 @@ tags:
 
 ## Equipment
 
-- Nichirin
-- Demon Slayer Uniform
+- [[Nichirin]]
+- [[Demon Slayer Uniform]]
 
 ## Techniques
 
-- Total Concentration Breathing
-- Demon Slayer Mark
-- Repetitive Action
+- [[Total Concentration Breathing]]
+- [[Demon Slayer Mark]]
+- [[Repetitive Action]]
 
 ## Breathing Styles
 
@@ -35,19 +35,19 @@ tags:
 
 ## ESP Abilities
 
+- [[ESP Index|Extra Sensory Perception]]
 ### Demon Slayer Mark
 
 - [[Transparent World]]
-- Selfless State
+- [[Selfless State]]
 
 ### Enhanced Senses
 
-- Enhanced Hearing
-- Enhanced Sight
-- Enhanced Taste
-- Enhanced Touch
+- [[Enhanced Hearing]]
+- [[Enhanced Sight]]
+- [[Enhanced Rhythm]]
+- [[Enhanced Touch]]
 - [[Enhanced Smell]]
-
 ### Special Talents
 
 - [[Mental Lock]]

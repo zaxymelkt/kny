@@ -19,6 +19,10 @@ TBD.
  
 # Forms
 
+> [!important] Wind Breathing Property
+> Through their visualisation, wind breathing produces large gust of wind that cut at their FOC.
+
+
 ## First Form: Dust Whirlwind Cutter
 
 TBD.
