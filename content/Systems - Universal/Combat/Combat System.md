@@ -108,4 +108,9 @@ Damage can be simplified into:
 - [[Physical Damage]] (HP DMG)
 - [[Status Damage]] (STAT DMG)
 - [[Mental Damage]] (SHP DMG)
-- [[True Damage]] (DMG). 
+- [[True Damage]] (DMG).
+
+1. Physical Damage can be reduced through [[Martial Arts]], such as dodging or blocking.
+2. Status Damage cannot be reduced outside of [[Statistics#Durability|status immunity]].
+3. Mental Damage can be reduced through [[#Dodge]] actions and [[Statistics#Focus|Focus]].
+4. True Damage cannot be reduced outside of perfect evasion.
