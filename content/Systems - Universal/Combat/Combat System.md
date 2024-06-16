@@ -19,6 +19,7 @@ Depending on the action, there is an increased level of complexity it may bring.
 
 ### Actions
 
+---
 #### Basic Actions
 
 ##### Dash
@@ -31,10 +32,21 @@ Effect: Cover half your MD in distance.
 Time: 1s
 Effect: Reduce Damage otherwise taken by 5.
 
+##### Dodge 
+
+Time: 1.5s
+Effect: Attempt to Reduce Damage to 0 by evading an attack. Dodge SPD is required to be within 5 of the attack to Dodge. Move up to half your MD in distance to evade an attack. 
+
+##### Jump
+
+Time: 2s
+Effect: Jump up to half your STR as MD in distance.
+
 ##### Attack
 
 Time: 1s
 Effect: Use any single basic, punch, kick, stab, etc.
+
 
 > [!Example] Basic Turn Example
 > Noritoshi dashes forward at 30 SPD, moving their Nichirin to block the incoming strike; sending a downward vertical slash in response.
@@ -46,6 +58,7 @@ Effect: Use any single basic, punch, kick, stab, etc.
 > - Block (30 Block SPD | 30 Block STR)
 > - Attack (27 ATK SPD | 25 ATK STR)
 
+---
 #### Moderate Actions
 
 ##### Injuries
@@ -73,6 +86,17 @@ Depending on the Breathing technique used, the amount of time consumed will vary
 |   [[Stone Breathing#Action Time\|Stone Breathing]]   | [[Quake Breathing#Action Time\|Quake Breathing]]                                                         |
 |    [[Wind Breathing#Action Time\|Wind Breathing]]    | [[Mist Breathing#Action Time\|Mist Breathing]]                                                           |
 
+---
 #### Advanced Actions
 
----
+#### Martial Art Techniques 
+[[Martial Arts]] are unlocked through different tiers of skill trees. These techniques particularly focus around movement or defence.
+
+They are organised by **Type** of movement the technique falls under.
+-  [[Statistics#Time Reduction|Time Reduction]] will affect them depending on that **Type**.
+
+#### Weapon Art Techniques
+[[Weapon Arts]] are unlocked through different tiers of skill trees. These techniques particularly focus around offensive or reactionary movement.
+
+They are organised by **Type** of movement the technique falls under.
+-  [[Statistics#Time Reduction|Time Reduction]] will affect them depending on that **Type**.

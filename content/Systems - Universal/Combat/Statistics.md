@@ -13,7 +13,22 @@ Statistics (Stats) are a numerical representation of an individual's ability in 
 - For Demons, their stats range between a value of 20 to 90. A Demon is considered [[Twelve Kizuki]] level if more than 4 stats are estimated beyond 50.
 
 ---
+## Stacking
+When Stacking (de)buffs, defining Equative Buffs is as follows:
 
+Equative buffs are buffs of the same type (I.E, ATK STR + ATK STR).
+
+Equative Buffs are the only type that directly stack.
+###  Buffs
+
+- Equative Buffs from the same document, unless stated otherwise, take the highest value.
+- Equative Buffs from different documents, unless stated otherwise, add together.
+
+### DeBuffs 
+
+- Equative DeBuffs from the same document or different document(s), unless stated otherwise, subtract together.
+
+---
 ## Agility
 
 Agility represents the swift movement and dexterity of an individual, encompassing their ability to cover ground quickly, navigate through the battlefield adeptly, execute rapid attacks, and evade or deflect incoming assaults. This attribute is crucial for manoeuvring effectively in high-stakes encounters, allowing skilled Demon Slayers to utilise their environment to their advantage. The implementation of [[Total Concentration Breathing]] further amplifies this agility, enabling Demon Slayers to achieve speeds that render conventional means of transport obsolete. However, while superior speed undoubtedly simplifies combat, it alone is insufficient to ensure victory against demons. The essence of agility lies not merely in raw speed but in the strategic application of movement—timing counterattacks, initiating rushes, or executing surprise manoeuvres with precision. These tactics are integral to enhancing a Demon Slayer's chances of survival and success in battle.
@@ -36,6 +51,8 @@ Agility represents the swift movement and dexterity of an individual, encompassi
 
 > [!abstract] Substats
 > **Movement Distance** (MD) > _A subcategory of AGL, dictating the amount of distance that can be covered within a single turn._
+> 
+> **Movement Speed** (Movement SPD | SPD) > _A subcategory of AGL, dictating the speed at which a certain distance is covered within a single turn_
 >
 > **Block Speed** (Block SPD) > _A subcategory of AGL, dictating the speed at which an individual can bring their body to a blocking position._
 >
@@ -46,13 +63,13 @@ Agility represents the swift movement and dexterity of an individual, encompassi
 ### Time Reduction 
 At a certain AGL Demons and Demon Slayers preform Base Actions at an decreased speed.
 
-| Invested  | Block Reduce. | Dash Reduce.  | ATK Reduce.   | Breath Form Reduce. |
-| --------- | ------------- | ------------- | ------------- | ------------------- |
-| 30 Points | -0.25 seconds | -0.5 seconds  | -0.25 seconds | -0 seconds          |
-| 40 Points | -0.5 seconds  | -0.75 seconds | -0.5 seconds  | -0.5 seconds        |
-| 60 Points | -0.5 seconds  | -1 seconds    | -0.5 seconds  | -1 seconds          |
-| 75 Points | -0.75 seconds | -1.25 seconds | -0.5 seconds  | -2 seconds          |
-| 90 Points | -1 second     | -1.5 seconds  | -0.5 seconds  | -3 seconds          |
+| Invested  | Block / Dodge | Dash          | Jump          | Attack        | Breath Form  |
+| --------- | ------------- | ------------- | ------------- | ------------- | ------------ |
+| 30 Points | -0.25 seconds | -0.5 seconds  | -0.5 seconds  | -0.25 seconds | -0 seconds   |
+| 40 Points | -0.5 seconds  | -0.75 seconds | -0.75 seconds | -0.5 seconds  | -0.5 seconds |
+| 60 Points | -0.5 seconds  | -1 seconds    | -1 seconds    | -0.5 seconds  | -1 seconds   |
+| 75 Points | -0.75 seconds | -1.25 seconds | -1.25 seconds | -0.5 seconds  | -2 seconds   |
+| 90 Points | -1 second     | -1.5 seconds  | -1.5 seconds  | -0.5 seconds  | -3 seconds   |
 
 ---
 
@@ -145,7 +162,7 @@ Stamina (STM) represents the physical endurance of a Demon Slayer, encapsulating
 
 ## Perception
 
-Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict accurately, essential skills given the supernatural speed and agility of demons. Most demons operate at speeds and in manners that exceed human sensory capabilities, necessitating exceptional predictive abilities to counter their attacks effectively. Skilled Demon Slayers, such as [[Hashira]], possess an advanced form of perception called [[Extra Sensory Perception]] (ESP), enabling them to detect the aura of demons. This heightened awareness allows them to anticipate and respond to demonic threats more efficiently. Some Demon Slayers naturally possess some level of ESP in the form of [[Enhanced Senses]].
+Perception (PER) refers to a Demon Slayer's ability to react swiftly and predict accurately, essential skills given the supernatural speed and agility of demons. Most demons operate at speeds and in manners that exceed human sensory capabilities, necessitating exceptional predictive abilities to counter their attacks effectively. Skilled Demon Slayers, such as [[Hashira]], possess an advanced form of perception called [[ESP Index|Extra Sensory Perception]] (ESP), enabling them to detect the aura of demons. This heightened awareness allows them to anticipate and respond to demonic threats more efficiently. Some Demon Slayers naturally possess some level of ESP in the form of [[ESP Index#Enhanced Senses|Enhanced Senses]].
 
 | Invested  | Vis. SPD. | Blur. SPD | Invis. SPD | Sensory Range                       |
 | --------- | --------- | --------- | ---------- | ----------------------------------- |
@@ -202,6 +219,3 @@ Focus (FOC) embodies the mental fortitude and determination of a Demon Slayer, r
 > **Tolerance** (Tol.) _A subcategory of FOC, dictating the amount of strength an attack requires to inflict the Daze, Stunned, or Unconsious status effect. A Nichirin Blade can be broken if an attack would inflict [Unconsious] on the wielder._
 
 ---
-# Damage Buff Formula
-
-Base + ( [[Combat System]] / [[Total Concentration Breathing]] ) + [[Status Effects#Type A Status Effects|Type A S.E]] + [[Status Effects#Type B Status Effects|Type B S.E]] + [[Status Effects#Type C Status Effects|Type C S.E]] + [[Demon Slayer Mark]] + [[Nichirin]] + [[Repetitive Action]]  + [[ESP Index|ESP Abilities]]
