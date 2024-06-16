@@ -5,6 +5,8 @@ tags:
 ---
 
 # Overview
+Martial Arts are vital part of [[Combat System|combat]] on both fronts.  Through the Skill Tree selector, [[Demons]] and [[Demon Slayer Corps|Demon Slayers]] are able into invest [[Progression#Talent Points|Talent Points]]. 
+
 
 ## Tier 1 
 | Skill Tree    | **Type**                         | Cost |
