@@ -55,6 +55,8 @@ tags:
 # Demon Systems
 
 # General Systems
+
+- [[Blood Type]]
 ## Combat Systems
 
 - [[Statistics]]
@@ -66,6 +68,3 @@ tags:
 - [[Demon Slayer Corps]]
 - [[Demons]]
 
-## Flavour
-
-- [[Blood Type]]

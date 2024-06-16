@@ -17,6 +17,13 @@ tags:
 ---
 ## Action Time 
 
+| Stage        | Time  |
+| ------------ | ----- |
+| [[#Level 1]] | 3s    |
+| [[#Level 2]] | 2.5s  |
+| [[#Level 3]] | 2.25s |
+| [[#Level 4]] | 2s    |
+
 ---
 
 ## Level 1

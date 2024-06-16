@@ -33,10 +33,10 @@ tags:
 
 ---
 ## Tier 3
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-| [[]]      |      |         |
-|           |      |         |
+| Technique      | Type                           | TP Cost |
+| :------------- | ------------------------------ | ------- |
+| [[Down Dodge]] | [[Combat System#Dodge\|Dodge]] |         |
+|                |                                |         |
 **OR**
 
 | Technique | Type | TP Cost |

@@ -100,3 +100,12 @@ They are organised by **Type** of movement the technique falls under.
 
 They are organised by **Type** of movement the technique falls under.
 -  [[Statistics#Time Reduction|Time Reduction]] will affect them depending on that **Type**.
+
+---
+
+## Damage Types 
+Damage can be simplified into:
+- [[Physical Damage]] (HP DMG)
+- [[Status Damage]] (STAT DMG)
+- [[Mental Damage]] (SHP DMG)
+- [[True Damage]] (DMG). 

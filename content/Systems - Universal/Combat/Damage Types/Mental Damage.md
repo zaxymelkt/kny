@@ -1,5 +1,5 @@
 ---
-title: Blood Type
+title: Mental Damage
 draft: false
 tags:
 ---

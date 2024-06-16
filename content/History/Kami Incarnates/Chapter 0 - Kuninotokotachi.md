@@ -1,3 +1,9 @@
+---
+title: Chapter 0 - Kuninotokotachi
+draft: true
+tags:
+---
+
 ![[Pasted image 20240615215057.png]]
 
 ---

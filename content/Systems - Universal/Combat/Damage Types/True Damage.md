@@ -1,5 +1,5 @@
 ---
-title: Blood Type
+title: True Damage
 draft: false
 tags:
 ---
