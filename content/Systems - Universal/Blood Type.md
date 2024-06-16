@@ -1,7 +1,0 @@
----
-title: Blood Type
-draft: false
-tags:
----
-
-# Overview

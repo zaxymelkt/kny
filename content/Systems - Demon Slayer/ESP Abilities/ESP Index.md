@@ -21,7 +21,7 @@ Users of ESP are more acutely aware of the entities in their surroundings throug
 
 Most Demon Slayers (particularly [[Hashira]]), are able to sense the presence of demons from an extreme distance.
 
-Demons are capable of discerning humans by [[blood type]], disease strains, and even their genes.
+Demons are capable of discerning humans by [[Blood Type]], disease strains, and even their genes.
 
 ### Combative Perception 
 ESP can also be used to great effect during combat, mainly through sensing an opponent's bloodlust and murderous intent. Through sensing bloodlust, users are more aware of when and where their opponent will attack, giving more time to prepare countermeasures. 
