@@ -1,5 +1,5 @@
 ---
-title: Demon Blood Arts
+title: Demon Blood Art
 draft: false
 tags:
 ---

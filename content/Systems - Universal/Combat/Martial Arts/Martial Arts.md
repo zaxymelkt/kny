@@ -35,77 +35,77 @@ Martial Arts are vital part of [[Combat System|combat]] on both fronts.  Through
 
 ---
 ## Tier 3
-| Technique      | Type                           | TP Cost |
+| Skill Tree     | Type                           | TP Cost |
 | :------------- | ------------------------------ | ------- |
 | [[Down Dodge]] | [[Combat System#Dodge\|Dodge]] |         |
-|                |                                |         |
+| [[Backflip]]   | [[Combat System#Jump\|Jump]]   |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Technique      | Type                           | TP Cost |
+| :------------- | ------------------------------ | ------- |
+| [[Quick Turn]] | [[Combat System#Block\|Block]] |         |
+| [[Deflect]]    | [[Combat System#Block\|Block]] |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Technique | Type                         | TP Cost |
+| :-------- | ---------------------------- | ------- |
+| [[Slide]] | [[Combat System#Dash\|Dash]] |         |
+| [[Leap]]  | [[Combat System#Jump\|Jump]] |         |
 
 ---
 ## Tier 4
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree       | Type                           | TP Cost |
+| :--------------- | ------------------------------ | ------- |
+| [[Aerial Dodge]] | [[Combat System#Dodge\|Dodge]] |         |
+| [[Wall Run]]     | [[Combat System#Dash\|Dash]]   |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree      | Type                         | TP Cost |
+| :-------------- | ---------------------------- | ------- |
+| [[Double Jump]] | [[Combat System#Jump\|Jump]] |         |
+| [[Vault]]       | [[Combat System#Dash\|Dash]] |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree      | Type                           | TP Cost |
+| :-------------- | ------------------------------ | ------- |
+| [[Substitute]]  | [[Combat System#Dodge\|Dodge]] |         |
+| [[After Image]] | [[Combat System#Dash\|Dash]]   |         |
 
 ---
 ## Tier 5
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree     | Type | TP Cost |
+| :------------- | ---- | ------- |
+| [[Air Dash]]   |      |         |
+| [[Flip Dodge]] |      |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree         | Type | TP Cost |
+| :----------------- | ---- | ------- |
+| [[Precision Jump]] |      |         |
+| [[Sidestep Leap]]  |      |         |
 **AND**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree        | Type | TP Cost |
+| :---------------- | ---- | ------- |
+| [[Counter Block]] |      |         |
+| [[Evade]]         |      |         |
 
 ---
 ## Tier 6
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree | Type | TP Cost |
+| :--------- | ---- | ------- |
+|            |      |         |
+|            |      |         |
 **OR**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree | Type | TP Cost |
+| :--------- | ---- | ------- |
+|            |      |         |
+|            |      |         |
 
 **AND**
 
-| Technique | Type | TP Cost |
-| :-------- | ---- | ------- |
-|           |      |         |
-|           |      |         |
+| Skill Tree | Type | TP Cost |
+| :--------- | ---- | ------- |
+|            |      |         |
+|            |      |         |

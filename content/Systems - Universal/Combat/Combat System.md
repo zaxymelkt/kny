@@ -69,7 +69,7 @@ For [[Demons]], Injuries of different levels require a various amount of time to
 
 ##### Status Effects
 
-[[Status Effects]] are used to give [[Statistics|statistical]] buffs or debuffs depending on the level of the status effect. Nearly all [[Injuries]] and [[Demon Blood Arts]] contain some type of status effect.
+[[Status Effects]] are used to give [[Statistics|statistical]] buffs or debuffs depending on the level of the status effect. Nearly all [[Injuries]] and [[Demon Blood Art]] contain some type of status effect.
 
 ##### Breath Form
 

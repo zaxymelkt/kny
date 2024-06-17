@@ -6,7 +6,7 @@ tags:
 
 ---
 # Mist Breathing Overview
-Created by [ Name ] after witnessing the Wind Hashira 宣れ芽ー鳥辞書（のれが—とりっじしょ) combat against his master [[Chapter 3 - Hachiman#Third Bearer|Third of his name, Minamoto Musashi]]. Mist breathing has the user visualising a dense mist shrouding the user's movements. Through proper focus, this mist becomes real.
+Created by [ Name ] after witnessing the Wind Hashira 宣れ芽ー鳥辞書（のれが—とりっじしょ) combat against his master [[Hachiman#Third Bearer|Third of his name, Minamoto Musashi]]. Mist breathing has the user visualising a dense mist shrouding the user's movements. Through proper focus, this mist becomes real.
 # Mastery
 
 | Form                                      | Unlock Req. |
