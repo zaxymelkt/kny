@@ -184,6 +184,7 @@ After the fall of the Kotoamatsukami, Amaterasu and [[Kamado Techikimi]] worked 
 ## Creation of the Demon Slayer Corps 
 The [[Ubuyashiki]] family, believed to be the descendants of those who entrapped [[Kuninotokotachi]] back in the [[#Jomon Period]], were cursed with short lives as a consequence of their actions. Despite this, they took on the monumental task of creating the Demon Slayer Corps, an organisation dedicated to defeating [[The Demon King]] and protecting humanity from demonic threats. Under their leadership, the [[Demon Slayer Corps]] united the Incarnated Kami, or gods, forming the elite group known as the [[Hashira]].
 
+---
 ## Incarnated Kami
 During this period, several Kami reincarnated into human form, bringing their unique abilities to aid in the fight against demons.
 
@@ -229,6 +230,7 @@ Incarnating as a human, [[Ōyamatsumi]] introduced the art of [[Stone Breathing]
 
 Ōyamatsumi's teachings emphasized strength, endurance, and the stability of the earth. His influence guided the demon slayers to be as solid as stone in their resolve, standing firm against the tide of evil and protecting humanity with unwavering determination.
 
+---
 ## The Rise of the Twelve Kizuki
 
 Following [[Amaterasu]] disappearance, the world was plunged into turmoil as the powerful demon [[Tsukuyomi]] emerged, heralding the rise of the [[Twelve Kizuki]]. These upper moon demons, handpicked by [[The Demon King]] himself, stood as the vanguard of darkness, each possessing formidable powers and abilities that made them a grave threat to humanity.
