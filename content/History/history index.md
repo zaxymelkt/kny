@@ -21,9 +21,7 @@ One significant figure of this time was [[Kuninotokotachi]], a being created fro
 ## Creation of the Kamiyonanayo 
 [ 12,500 BC to 3000 BC ]
 
-During this period, Kuninotokotachi using their [[Demon Blood Art]], Kamisama, the [[Kamiyonanayo]] were believed to have been created.
-
-The Kamiyonanayo's purpose was the create new [[Demons]] from humans.
+During this period, the [[Kamiyonanayo]] were believed to have been created.
 ### Toyokumunu 
 [ 12,500 BC ]
 
@@ -58,7 +56,7 @@ The Kamiyonanayo's purpose was the create new [[Demons]] from humans.
 ## Creation of the Kotoamatsukami
 [ 10,000 BC to 300 BC ]
 
-Kuninotokotachi pocessed the [[Demon Blood Art]], Kamisama, which he used to create powerful beings called the [[Kotoamatsukami]] through human sacrifices. The Kotoamatsukami were:
+Kuninotokotachi used his own power to birth powerful beings called the [[Kotoamatsukami]] through human sacrifices. The Kotoamatsukami were:
 ### Amenominakanushi 
 [ 10,000 BC ]
 
