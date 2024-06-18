@@ -61,14 +61,17 @@ The Kamiyonanayo's purpose was the create new [[Demons]] from humans.
 Kuninotokotachi pocessed the [[Demon Blood Art]], Kamisama, which he used to create powerful beings called the [[Kotoamatsukami]] through human sacrifices. The Kotoamatsukami were:
 ### Amenominakanushi 
 [ 10,000 BC ]
+
 [[Amenominakanushi]]: This demon represented the sky and the heavens. Amenominakanushi was believed to control the weather, bringing rain for crops or storms as a form of punishment. The Jomon people would offer prayers and sacrifices to appease this powerful spirit, hoping for good harvests and protection from natural disasters.
 
 ### Takamimusubi
 [ 2,462 BC ]
+
 [[Takamimusubi]]: Symbolising growth and prosperity, Takamimusubi was associated with the earth and agriculture. This demon ensured the fertility of the land and the abundance of food. The Jomon people depended on Takamimusubi’s favour for their survival, performing rituals to ensure bountiful crops and the health of their communities.
 
 ### Kamimusubi 
 [ 300 BC ]
+
 [[Kamimusubi]]: This demon was linked to life and creation. Kamimusubi was believed to have the power to heal and bring forth new life. The Jomon people revered this spirit, seeking its blessings for childbirth, health, and overall well-being.
 
 ---
