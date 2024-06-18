@@ -1,5 +1,5 @@
 ---
-title: "KNY : First Blood Lore"
+title: Japanese History
 draft: false
 tags:
 ---
