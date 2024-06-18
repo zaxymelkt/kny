@@ -38,6 +38,11 @@ tags:
 
 # Demon Systems
 
+- [[Demons]]
+## Supernatural Abilities 
+
+- [[Regeneration]]
+- [[Demon Blood Art]]
 # General Systems
 
 - [[Blood Type]]
@@ -50,8 +55,6 @@ tags:
 ## Factions
 
 - [[Demon Slayer Corps]]
-- [[Demons]]
-
 # History 
 
 - [[history index|Japanese History]]
