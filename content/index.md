@@ -68,3 +68,6 @@ tags:
 - [[Demon Slayer Corps]]
 - [[Demons]]
 
+# History 
+
+- [[history index|Japanese History]]
