@@ -5,4 +5,4 @@ tags: []
 ---
 # Overview 
 
-The Nichirin [[content/kny/index|system]]  
+The Nichirin [[content/index|system]]  

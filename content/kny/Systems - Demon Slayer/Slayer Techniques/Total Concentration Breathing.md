@@ -4,7 +4,7 @@ draft: false
 tags: []
 ---
 # Overview 
-The Total Concentration Breathing [[content/kny/index|system]]  
+The Total Concentration Breathing [[content/index|system]]  
 
 
 ## Breathing Styles

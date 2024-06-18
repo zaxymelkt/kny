@@ -4,4 +4,4 @@ draft: false
 tags: []
 ---
 # Overview 
-The Demon Slayer Mark [[content/kny/index|system]]  
+The Demon Slayer Mark [[content/index|system]]  

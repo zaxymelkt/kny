@@ -3,7 +3,7 @@ title: ESP Abilities
 draft: false
 tags:
 ---
-Extrasensory Perception (ESP) is the supernatural ability to sense things that cannot be perceived by one's natural senses. This [[content/kny/index|system]] overviews varies ESP abilities.
+Extrasensory Perception (ESP) is the supernatural ability to sense things that cannot be perceived by one's natural senses. This [[content/index|system]] overviews varies ESP abilities.
 
 # Overview
 Extrasensory Perception grants the user a "sixth sense" which enables them to sense the paranormal or supernatural. There are two types of ESP:

@@ -4,4 +4,4 @@ draft: false
 tags: []
 ---
 # Overview
-The Repetitive Action [[content/kny/index|system]]  
+The Repetitive Action [[content/index|system]]  

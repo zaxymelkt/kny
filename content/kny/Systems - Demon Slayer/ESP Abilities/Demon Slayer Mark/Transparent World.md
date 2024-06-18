@@ -3,7 +3,7 @@ title: Transparent World
 draft: false
 tags:
 ---
-The Transparent World [[content/kny/index|system]]  
+The Transparent World [[content/index|system]]  
 # Overview
 
 Demon Slayers that have awakened the Mark can utilise a special form of ocular extrasensory perception that alters their vision, allowing them to perceive other living beings as if they were transparent, only being able to see the inner workings of their bodies. Most notably, users are able to perceive the flow of blood, breathing, muscular contractions and joint movements of the creature they are looking at.

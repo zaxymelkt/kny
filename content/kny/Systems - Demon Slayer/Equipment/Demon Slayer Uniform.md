@@ -5,4 +5,4 @@ tags: []
 ---
 # Overview 
 
-The Demon Slayer Uniform [[content/kny/index|system]]  
+The Demon Slayer Uniform [[content/index|system]]  

@@ -1,1 +1,1 @@
-The <% tp.file.title %> [[content/kny/index|system]]  
+The <% tp.file.title %> [[content/index|system]]  
