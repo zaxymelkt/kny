@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zaxymelkt.github.io/kny/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#282A36", // Background
+          lightgray: "#44475A", // Comment
+          gray: "#6272A4", // Cyan
+          darkgray: "#50FA7B", // Green
+          dark: "#FF79C6", // Pink
+          secondary: "#8BE9FD", // Blue
+          tertiary: "#F1FA8C", // Yellow
+          highlight: "rgba(143, 159, 169, 0.15)", // Keeping the original highlight color
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#282A36", // Background
+          lightgray: "#44475A", // Comment
+          gray: "#6272A4", // Cyan
+          darkgray: "#50FA7B", // Green
+          dark: "#FF79C6", // Pink
+          secondary: "#8BE9FD", // Blue
+          tertiary: "#F1FA8C", // Yellow
+          highlight: "rgba(143, 159, 169, 0.15)", // Keeping the original highlight color
         },
       },
     },
