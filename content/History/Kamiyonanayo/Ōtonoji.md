@@ -2,6 +2,8 @@
 title: Ōtonoji
 draft: false
 tags:
+species: demon
+role: Kamiyonanayo
 ---
 
 # Jomon Period

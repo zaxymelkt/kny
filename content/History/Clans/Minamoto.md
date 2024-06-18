@@ -1,9 +1,7 @@
 ---
-title: Omodaru
+title: Minamoto
 draft: false
 tags:
-species: demon
-role: Kamiyonanayo
 ---
 
 # Jomon Period

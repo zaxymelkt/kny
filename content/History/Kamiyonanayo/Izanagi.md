@@ -2,6 +2,8 @@
 title: Izanagi
 draft: true
 tags:
+species: demon
+role: Kamiyonanayo
 ---
 
 # Jomon Period

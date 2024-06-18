@@ -2,6 +2,8 @@
 title: Amenominakanushi
 draft: true
 tags:
+species: demon
+role: Kotoamatsukami
 ---
 
 # Jomon Period

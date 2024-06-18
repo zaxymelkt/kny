@@ -2,6 +2,8 @@
 title: Chapter 1 - Hachiman Incarnate
 draft: false
 tags:
+species: kami
+role: demon slayer
 ---
 
 # Minamoto Musashi

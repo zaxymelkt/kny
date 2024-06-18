@@ -1,9 +1,7 @@
 ---
-title: Omodaru
+title: The Demon King
 draft: false
 tags:
-species: demon
-role: Kamiyonanayo
 ---
 
 # Jomon Period

@@ -2,7 +2,10 @@
 title: Chapter 0 - Kuninotokotachi
 draft: true
 tags: 
-date:
+species:
+  - demon
+  - demon king
+role: Primordial
 ---
 
 ![[Pasted image 20240615215057.png]]

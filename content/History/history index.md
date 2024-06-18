@@ -142,16 +142,16 @@ The rulers of the Kofun Period used spiritual practices to maintain social order
 The construction of large tombs, or kofun, became a significant practice during this period. These tombs were built for the powerful rulers and were believed to ensure their continued influence in the afterlife. The kofun symbolized the divine connection of the rulers, emphasizing their role as intermediaries between the gods and the people.
 
 ---
-# Asuka Period 
-[ 538 AD to 710 AD ]
+# Nara & Heian Period 
+[ 710 AD to 1185 AD ]
 
 ## Return of Amaterasu
 
-In the Asuka Period, the ancient land witnessed the miraculous return of [[Amaterasu]]. This incarnation was a child born with a [[Demon Slayer Mark]], possessing the same abilities to see into the [[Transparent World]] and maintain a constant [[Selfless State]]. Unlike her previous incarnation, this Amaterasu was even more talented, showing exceptional prowess and wisdom from a young age, creating the first breathing style, [[Sun Breathing]].
+In the Nara Period, the ancient land witnessed the miraculous return of [[Amaterasu]]. This incarnation was a child born with a [[Demon Slayer Mark]], possessing the same abilities to see into the [[Transparent World]] and maintain a constant [[Selfless State]]. Unlike her previous incarnation, this Amaterasu was even more talented, showing exceptional prowess and wisdom from a young age, creating the first breathing style, [[Sun Breathing]].
 
-### Discovery of Nichirin
+### Discovery of Nichirin Metal
 
-Amaterasu during her travels discovered a blacksmithing village, [[Swordsmith Village - Sakai]] which had a groundbreaking discovery. They unearthed a rare metal, [[Nichirin]], which possessed the unique capability of killing the so-called deities. This metal became central to her efforts in combating the malevolent forces that plagued the world.
+Amaterasu during her travels discovered a blacksmithing village, [[Swordsmith Village - Sakai]] which had a groundbreaking discovery. They unearthed a rare metal, [[Nichirin]], which possessed the unique capability of killing the so-called deities. This metal became central to her efforts in combating the malevolent forces that plagued the world. [[Amatsumara]] would be the first forge a [[Nichrin]] blade.
 
 ### Weakness of Demons
 
@@ -161,13 +161,14 @@ Through the [[Transparent World]], Amaterasu realised that the [[demons]] create
 
 Amaterasu's talents led her to develop the first versions of [[Total Concentration Breathing]] and [[Sun Breathing]]. These techniques harnessed the power of breath to enhance physical abilities and visualise the power of the sun. Amaterasu meticulously documented these techniques, creating scrolls that she concealed as the [[Sun Breathing|Hinokami Kagura Dance]], a ritual dance that she would give to [[Kamado Techikimi]] to inherit.
 
+---
 ## Fall of the Kotoamatsukami
 
 The Asuka Period also marked the decline of the once-powerful [[Kotoamatsukami]]. Each member of this divine trio confronted Amaterasu, leading to epic battles that would determine the fate of the land.
 
 ### Battles with Amaterasu
 
-Amaterasu, joined by her steadfast ally [[Kamado Techikimi]], faced the Kotoamatsukami in a series of fierce confrontations. Despite their immense power, each member of the Kotoamatsukami ultimately fell to Amaterasu's might and strategic prowess.
+Amaterasu, joined by [[Amatsumara]], faced the Kotoamatsukami in a series of fierce confrontations. Despite their immense power, each member of the Kotoamatsukami ultimately fell to Amaterasu's might and strategic prowess.
 
 - **[[Amenominakanushi]]**: The supreme ruler of the heavens wielded the ability to cast an inescapable illusion through reciting a poem and expending his blood. However, Amaterasu's keen insight into the [[Transparent World]] allowed her to see through the illusion, and with the help of Nichirin, she was able to defeat him.
     
@@ -180,10 +181,85 @@ Amaterasu, joined by her steadfast ally [[Kamado Techikimi]], faced the Kotoamat
 After the fall of the Kotoamatsukami, Amaterasu and [[Kamado Techikimi]] worked tirelessly to ensure that the knowledge and techniques developed during their battles would not be lost. The [[Hinokami Kagura Dance]] became a sacred ritual, and the scrolls hidden within it were preserved as invaluable treasures for future generations.
 
 ---
+## Creation of the Demon Slayer Corps 
+The [[Ubuyashiki]] family, believed to be the descendants of those who entrapped [[Kuninotokotachi]] back in the [[#Jomon Period]], were cursed with short lives as a consequence of their actions. Despite this, they took on the monumental task of creating the Demon Slayer Corps, an organisation dedicated to defeating [[The Demon King]] and protecting humanity from demonic threats. Under their leadership, the [[Demon Slayer Corps]] united the Incarnated Kami, or gods, forming the elite group known as the [[Hashira]].
 
-# Nara & Heian Period 
-[ 710 AD to 1185 AD ]
+## Incarnated Kami
+During this period, several Kami reincarnated into human form, bringing their unique abilities to aid in the fight against demons.
 
+### Hachiman
+
+Incarnating as a human, [[Hachiman]] played a pivotal role in the development of the [[Demon Slayer Corps]]. He introduced the concept of [[Total Concentration Breathing]] to humanity, a technique that allowed the demon slayers to enhance their physical and mental capabilities to superhuman levels. This breathing technique became fundamental to the combat style of the Corps, enabling them to face demons with greater strength and agility.
+
+Hachiman's teachings also emphasised discipline, perseverance, and loyalty, which became core values within the Demon Slayer Corps. His influence extended beyond the battlefield, shaping the moral and ethical principles of the demon slayers and guiding them in their quest to protect humanity.
+
+### Amatsumara
+
+Incarnating as a human, [[Amatsumara]]'s contribution to the Demon Slayer Corps was significant. Reincarnated to assist humanity, he introduced the rare metal [[Nichirin]] to the people. This metal, with its unique properties, became the material of choice for crafting swords capable of slaying demons. The introduction of Nichirin weapons revolutionized the demon slayers' arsenal, providing them with a potent tool in their battle against the forces of darkness.
+
+Amatsumara's teachings also emphasised the importance of craftsmanship and precision in weapon-making, leading to the development of intricate and powerful blades wielded by the demon slayers. His legacy lived on in the craftsmanship of Nichirin swords, which became symbols of hope and protection for humanity.
+
+### Kōjin
+
+Incarnating as a human, [[Kōjin]] brought the art of [[Flame Breathing]] to the people. This breathing technique enabled the demon slayers to visualise flame as a weapon, adding a powerful offensive capability to their combat repertoire. The flames of Flame Breathing were not only devastating to demons but also served as a symbol of purification, cleansing the world of evil.
+
+Kōjin's teachings emphasised passion, intensity, and the transformative power of fire. His influence inspired the demon slayers to approach their battles with determination and zeal, using Flame Breathing to incinerate the demonic threats that plagued the land.
+
+### Ryūjin
+
+Incarnating as a human, [[Ryūjin]] introduced the art of [[Water Breathing]] to the people. This breathing technique allowed the demon slayers to harness the power of water, using it both defensively and offensively in combat. Water Breathing was known for its fluid and adaptable nature, mirroring the ebb and flow of the natural world.
+
+Ryūjin's teachings emphasised adaptability, flexibility, and harmony with nature. His influence guided the demon slayers to be as fluid as water in their approach to combat, flowing around obstacles and overcoming challenges with grace and precision.
+
+### Raijin
+
+Incarnating as a human, [[Raijin]] brought the potent [[Thunder Breathing]] technique to humanity. This breathing style allowed the demon slayers to generate and control electricity, unleashing devastating attacks against their demonic foes. Thunder Breathing was known for its speed and power, striking down demons with lightning-fast precision.
+
+Raijin's teachings emphasized speed, agility, and the power of the elements. His influence encouraged the demon slayers to strike swiftly and decisively, using Thunder Breathing to overwhelm their enemies with sheer force and momentum.
+
+### Fūjin
+
+Incarnating as a human, [[Fūjin]] brought the art of [[Wind Breathing]] to humanity. This breathing technique allowed the demon slayers to manipulate and control the air around them, creating powerful gusts and slicing winds to attack their enemies. Wind Breathing was known for its speed and cutting power, slicing through demons with razor-sharp precision.
+
+Fūjin's teachings emphasized speed, agility, and the unseen forces of nature. His influence guided the demon slayers to be as swift as the wind, striking with precision and finesse to overcome even the most formidable opponents.
+
+### Ōyamatsumi
+
+Incarnating as a human, [[Ōyamatsumi]] introduced the art of [[Stone Breathing]] to the people. This breathing technique allowed the demon slayers to manipulate and control earth and stone, using them as defensive barriers or powerful weapons against their enemies. Stone Breathing was known for its solidity and resilience, providing a strong defense against demonic attacks.
+
+Ōyamatsumi's teachings emphasized strength, endurance, and the stability of the earth. His influence guided the demon slayers to be as solid as stone in their resolve, standing firm against the tide of evil and protecting humanity with unwavering determination.
+
+## The Rise of the Twelve Kizuki
+
+Following [[Amaterasu]] disappearance, the world was plunged into turmoil as the powerful demon [[Tsukuyomi]] emerged, heralding the rise of the [[Twelve Kizuki]]. These upper moon demons, handpicked by [[The Demon King]] himself, stood as the vanguard of darkness, each possessing formidable powers and abilities that made them a grave threat to humanity.
+
+The emergence of these powerful demons posed a dire threat to humanity, prompting the Demon Slayer Corps to redouble their efforts in combating the forces of darkness. With each encounter, the Corps honed their skills and strategies, determined to push back the tide of evil and protect the world from the tyranny of the Twelve Kizuki.
+
+### Tsukuyomi
+
+As the first among the Twelve Kizuki, [[Tsukuyomi]] wielded the power of the [[Moon Breathing|moon]] itself. His abilities were shrouded in mystery, with tales speaking of illusions that could ensnare the unwary and shadows that could swallow even the bravest souls.
+
+### Susanoo
+
+[[Susanoo]], the second upper moon demon, was a warrior of unmatched skill and ferocity. Armed with a divine blade and clad in armour forged from the depths of the underworld, he struck fear into the hearts of all who faced him.
+
+### Izanagi and Izanami
+
+The third among the Twelve Kizuki were the twin demons [[Izanagi]] and [[Izanami]], who wielded the powers of creation and destruction. Together, they could reshape the very fabric of reality, making them a formidable duo to contend with.
+
+### Ukemochi
+
+[[Ukemochi]], the fourth upper moon demon, little is known about this one's abilities.
+
+### Nakisawame
+
+[[Nakisawame]], the fifth of the Twelve Kizuki, was a master of illusions and deception. He could twist the perceptions of his enemies, leading them astray and into his deadly traps.
+
+### Kagutsuchi
+
+[[Kagutsuchi]], the sixth upper moon demon, was a being of pure flame. His very presence ignited infernos that consumed everything in their path, making him a relentless force of destruction.
+
+---
 # Kamakura Period 
 [ 1192 AD to 1333 AD ]
 

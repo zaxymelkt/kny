@@ -1,9 +1,7 @@
 ---
-title: Omodaru
+title: Tsugikuni
 draft: false
 tags:
-species: demon
-role: Kamiyonanayo
 ---
 
 # Jomon Period
