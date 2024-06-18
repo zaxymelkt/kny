@@ -195,7 +195,7 @@ Hachiman's teachings also emphasised discipline, perseverance, and loyalty, whic
 
 ### Amatsumara
 
-Incarnating as a human, [[Amatsumara]]'s contribution to the Demon Slayer Corps was significant. Reincarnated to assist humanity, he introduced the rare metal [[Nichirin]] to the people. This metal, with its unique properties, became the material of choice for crafting swords capable of slaying demons. The introduction of Nichirin weapons revolutionised the demon slayers' arsenal, providing them with a potent tool in their battle against the fall gods.
+Incarnating as a human, [[Amatsumara]]'s contribution to the Demon Slayer Corps was significant. Reincarnated to assist humanity, he introduced the rare metal [[Nichirin]] to the people. This metal, with its unique properties, became the material of choice for crafting swords capable of slaying demons. The introduction of Nichirin weapons revolutionised the demon slayers' arsenal, providing them with a potent tool in their battle against the false gods.
 
 Amatsumara's teachings also emphasised the importance of craftsmanship and precision in weapon-making, leading to the development of intricate and powerful blades wielded by the demon slayers. His legacy lived on in the craftsmanship of Nichirin swords, which became symbols of hope and protection for humanity.
 
