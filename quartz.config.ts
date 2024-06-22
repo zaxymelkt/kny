@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "KNY : First Blood",
+    pageTitle: "KNY : Return of the Kami",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
