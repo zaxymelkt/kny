@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#282A36", // Background
-          lightgray: "#44475A", // Comment
-          gray: "#6272A4", // Cyan
-          darkgray: "#50FA7B", // Green
-          dark: "#FF79C6", // Pink
-          secondary: "#8BE9FD", // Blue
-          tertiary: "#F1FA8C", // Yellow
-          highlight: "rgba(143, 159, 169, 0.15)", // Keeping the original highlight color
+          light: "#1E2127", // Slightly lighter background for better contrast
+          lightgray: "#3B4048", // Softer comment color
+          gray: "#5B626D", // Darker cyan for reduced brightness
+          darkgray: "#3FB950", // Softer green
+          dark: "#BF616A", // Softer pink
+          secondary: "#4FC1EA", // Softer blue
+          tertiary: "#EBCB8B", // Softer yellow
+          highlight: "rgba(59, 65, 73, 0.15)", // Keeping the original highlight color
         },
         darkMode: {
-          light: "#282A36", // Background
-          lightgray: "#44475A", // Comment
-          gray: "#6272A4", // Cyan
-          darkgray: "#50FA7B", // Green
-          dark: "#FF79C6", // Pink
-          secondary: "#8BE9FD", // Blue
-          tertiary: "#F1FA8C", // Yellow
-          highlight: "rgba(143, 159, 169, 0.15)", // Keeping the original highlight color
+          light: "#1E2127", // Slightly lighter background for better contrast
+          lightgray: "#3B4048", // Softer comment color
+          gray: "#5B626D", // Darker cyan for reduced brightness
+          darkgray: "#3FB950", // Softer green
+          dark: "#BF616A", // Softer pink
+          secondary: "#4FC1EA", // Softer blue
+          tertiary: "#EBCB8B", // Softer yellow
+          highlight: "rgba(59, 65, 73, 0.15)", // Keeping the original highlight color
         },
       },
     },
