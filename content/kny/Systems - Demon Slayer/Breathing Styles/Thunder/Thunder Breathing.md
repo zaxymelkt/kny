@@ -13,14 +13,15 @@ TBD.
 | Form                                    | Unlock Req. |
 | --------------------------------------- | ----------- |
 | [[#First Form: Thunder Flash and Clap]] | 10 FOC      |
-| [[#Second Form: Sixfold]]               | 20 FOC      |
-| [[#Third Form: Eightfold]]              | 35 FOC      |
-| [[#Fourth Form: Godspeed]]              | 60 FOC      |
-| [[#Fifth Form: Rice Spirit]]            | 10 FOC      |
-| [[#Sixth Form: Thunder Swarm]]          | 15 FOC      |
-| [[#Seventh Form: Distant Thunder]]      | 20 FOC      |
-| [[#Eighth Form: Heat Lightning]]        | 25 FOC      |
-| [[#Ninth Form: Rumble and Flash]]       | 30 FOC      |
+| - [[#Extension Form Sixfold]]           | 25 FOC      |
+| - [[#Extension Form: Eightfold]]        | 35 FOC      |
+| - [[#Extension Form Twelve Fold]]       | 45 FOC      |
+| [[#Extension Form Godspeed]]            | 60 FOC      |
+| [[#Second Form Rice Spirit]]            | 15 FOC      |
+| [[#Third Form: Thunder Swarm]]          | 20 FOC      |
+| [[#Fourth Form: Distant Thunder]]       | 25 FOC      |
+| [[#Fifth Form: Heat Lightning]]         | 30 FOC      |
+| [[#Sixth Form: Rumble and Flash]]       | 35 FOC      |
 
 
 # Forms
@@ -28,51 +29,86 @@ TBD.
 ## First Form: Thunder Clap and Flash
 The user unsheathes their katana, dashes forward at blinding speeds and decapitates their opponent faster than they can react, before sheathing it back. This technique is extremely reminiscent of Iaijutsu and its movements become lightning ripping through the air. 
 
-This technique requires a single turn to prepare.
+This technique requires a single turn to prepare. Once prepared, they preform a single [[Combat System#Dash|Dash]] action before attacking.
 
 **Buffs**
 - Preformed at +10 Movement SPD
 - Preformed at +8 Swing SPD
 - Preformed at +8 ATK STR
 
+- Gain +4 MD per [[Combat System#Dash|Dash]] action
+
 **Cost**
 - 15 STAM
 
-## Second Form: Sixfold
+### Extension Form: Sixfold
 The user performs Thunderclap and Flash six times in quick succession while slightly augmenting the power and speed of their dashes. Only the final movement can attack.
 
-This technique has the user dashing for two turns before on the third they release their sixfold's slash.
+This technique has the user preform the [[Combat System#Dash|Dash]] action 6 times consecutive before they can preform an [[Combat System#Attack|Attack]] or any other [[Combat System#Actions|Action]].
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
 - Every movement after the first is preformed at +2 Swing SPD
 - Every movement after the first is preformed at +2 ATK STR
+
+- Gain +4 MD per [[Combat System#Dash|Dash]] action
 
 **Cost**
 - 30 STAM
 
-## Third Form: Eight Fold
+### Extension Form: Eight Fold
 The user performs Thunderclap and Flash eight times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
 
-This technique has the user dashing for three turns before on the fourth they release their eightfold's slash.
+This technique has the user preform the [[Combat System#Dash|Dash]] action 8 times consecutive before they can preform an [[Combat System#Attack|Attack]] or any other [[Combat System#Actions|Action]].
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
 - Every movement after the first is preformed at +2 Swing SPD
 - Every movement after the first is preformed at +2 ATK STR
+
+- Gain +5 MD per [[Combat System#Dash|Dash]] action
 
 **Cost**
 - 60 STAM
 
-## Fourth Form: Godspeed
-The user performs Thunderclap and Flash sixteen times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
+### Extension Form: Twelve Fold
+The user performs Thunderclap and Flash eight times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
 
-This technique has the user dashing for seven turns before on the eighth they release their sixteenfold's slash.
+This technique has the user preform the [[Combat System#Dash|Dash]] action 12 times consecutive before they can preform an [[Combat System#Attack|Attack]] or any other [[Combat System#Actions|Action]].
 
 **Buffs**
 - Every movement after the first is preformed at +2 Movement SPD
 - Every movement after the first is preformed at +2 Swing SPD
 - Every movement after the first is preformed at +2 ATK STR
 
+- Gain +6 MD per [[Combat System#Dash|Dash]] action
+
+**Cost**
+- 60 STAM
+
+### Extension Form: Godspeed
+The user performs Thunderclap and Flash sixteen times in quick succession while slightly augmenting the power and speed of their dashes.  Only the final movement can attack.
+
+This technique has the user preform the [[Combat System#Dash|Dash]] action 16 times consecutive before they can preform an [[Combat System#Attack|Attack]] or any other [[Combat System#Actions|Action]].
+
+**Buffs**
+- Every movement after the first is preformed at +2 Movement SPD
+- Every movement after the first is preformed at +2 Swing SPD
+- Every movement after the first is preformed at +2 ATK STR
+
+- Gain +8 MD per [[Combat System#Dash|Dash]] action
+
 **Cost**
 - 240 STAM
+
+--- 
+
+## Second Form : Rice Spirit
+
+## Third Form : Thunder Swarm
+
+## Fourth Form : Distant Thunder
+
+## Fifth Form : Heat Lightning
+
+## Sixth Form : Rumble and Flash

@@ -5,7 +5,7 @@ tags:
 ---
 
 # Overview
-
+The "Interrupt" refers to the act of disrupting an opponent's attack or defense with a swift and precise counter-move. In practical terms, an interrupt in Kenjutsu might involve stepping forward or backward, turning the body, or shifting the stance to evade an incoming attack while simultaneously delivering a counter-stroke.
 
 | Stage   | Total Invested |
 | ------- | -------------- |
