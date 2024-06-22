@@ -13,6 +13,11 @@ During the early tiers of [[#Tier 1]] through [[#Tier 3]] a Character may select
 
 During the later tiers of [[#Tier 4]] through [[#Tier 6]], a Character may select between [[#Tree 3]] and [[#Tree 1]] or [[#Tree 2]]
 
+## Levels
+
+The Levels found within the various Skill Trees take over from each other: meaning that a Level 1 moved to Level 2, will only function at Level 2 of that skill.
+
+---
 ## Tier 1 
 ### Tree 1
 
@@ -42,7 +47,6 @@ During the later tiers of [[#Tier 4]] through [[#Tier 6]], a Character may selec
 **OR**
 
 ### Tree 2
-
 
 | Skill Tree     | Type                                 | TP Cost |
 | :------------- | ------------------------------------ | ------- |
