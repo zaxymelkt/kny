@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#1E2127", // Slightly lighter background for better contrast
-          lightgray: "#3B4048", // Softer comment color
-          gray: "#5B626D", // Darker cyan for reduced brightness
-          darkgray: "#3FB950", // Softer green
-          dark: "#BF616A", // Softer pink
-          secondary: "#4FC1EA", // Softer blue
-          tertiary: "#EBCB8B", // Softer yellow
-          highlight: "rgba(59, 65, 73, 0.15)", // Keeping the original highlight color
+          light: "#1E2127", // Darker background for light mode to mimic night
+          lightgray: "#3B4048", // Slightly lighter gray for comments
+          gray: "#5D647B", // A cool gray tone
+          darkgray: "#7F8C98", // Lighter shade for contrast
+          dark: "#ABB2BF", // A soft blue-gray for darker elements
+          secondary: "#61AFEF", // Brighter blue for secondary highlights
+          tertiary: "#E6C07B", // Warm yellow for tertiary highlights, avoiding green
+          highlight: "rgba(97, 175, 239, 0.15)", // Blue-based highlight to match secondary
         },
         darkMode: {
-          light: "#1E2127", // Slightly lighter background for better contrast
-          lightgray: "#3B4048", // Softer comment color
-          gray: "#5B626D", // Darker cyan for reduced brightness
-          darkgray: "#3FB950", // Softer green
-          dark: "#BF616A", // Softer pink
-          secondary: "#4FC1EA", // Softer blue
-          tertiary: "#EBCB8B", // Softer yellow
-          highlight: "rgba(59, 65, 73, 0.15)", // Keeping the original highlight color
+          light: "#1E2127", // Consistent with light mode for background
+          lightgray: "#3B4048", // Consistent comment color
+          gray: "#5D647B", // Consistent gray tone
+          darkgray: "#7F8C98", // Consistent lighter shade
+          dark: "#ABB2BF", // Consistent soft blue-gray
+          secondary: "#61AFEF", // Consistent brighter blue
+          tertiary: "#E6C07B", // Consistent warm yellow
+          highlight: "rgba(97, 175, 239, 0.15)", // Consistent blue-based highlight
         },
       },
     },
