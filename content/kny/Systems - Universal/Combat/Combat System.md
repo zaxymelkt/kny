@@ -34,7 +34,7 @@ Effect: Reduce Damage otherwise taken by 5.
 
 ##### Dodge 
 
-Time: 1.5s
+Time: 2s
 Effect: Attempt to Reduce Damage to 0 by evading an attack. Dodge SPD is required to be within 5 of the attack to Dodge. Move up to half your MD in distance to evade an attack. 
 
 ##### Jump

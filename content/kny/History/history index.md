@@ -91,14 +91,6 @@ Amidst this conflict, a significant figure emerged: [[Amaterasu]]. Born with a [
 
 The Yayoi Period was also marked by increased conflicts among human societies. As agricultural practices spread and communities grew, competition for resources intensified. The spiritual turmoil among the [[Kotoamatsukami]] mirrored these earthly conflicts, with different tribes and clans vying for dominance.
 
-### Human Impact
-
-The influence of the [[Kotoamatsukami]] was evident in these human struggles. Communities sought the favour of different deities, performing rituals and sacrifices to gain their support. The wars and conflicts among humans were seen as reflections of the divine discord, with people believing that their successes and failures were directly tied to the will of the gods.
-
-### Spiritual Practices
-
-Despite the turmoil, this period also saw the development of more sophisticated spiritual practices. The teachings of [[Amaterasu]] were integrated into daily life, guiding moral conduct and social order. The ability of Amaterasu to perceive the [[Transparent World]] and her perpetual [[Selfless State]] became ideals for the people to aspire to, fostering a deeper connection with the divine.
-
 ---
 # Kofun Period 
 [ 250 AD to 538 AD ]
@@ -142,7 +134,7 @@ The rulers of the Kofun Period used spiritual practices to maintain social order
 The construction of large tombs, or kofun, became a significant practice during this period. These tombs were built for the powerful rulers and were believed to ensure their continued influence in the afterlife. The kofun symbolized the divine connection of the rulers, emphasizing their role as intermediaries between the gods and the people.
 
 ---
-# Nara & Heian Period 
+# The For
 [ 710 AD to 1185 AD ]
 
 ### Development of Breathing Techniques
@@ -164,7 +156,20 @@ The [[Ubuyashiki]] family, believed to be the descendants of those who entrapped
 
 In the Nara Period, the ancient land witnessed the miraculous return of [[Amaterasu]]. This incarnation was a child born with a [[Demon Slayer Mark]], possessing the same abilities to see into the [[Transparent World]] and maintain a constant [[Selfless State]].
 
-She was not the only of the Kami to incarnate. 
+She was not the only of the Kami to incarnate.
+
+## Fall of the Kotoamatsukami
+
+The Asuka Period also marked the decline of the once-powerful [[Kotoamatsukami]]. Each member of this divine trio confronted Amaterasu, leading to epic battles that would determine the fate of the land.
+
+Amaterasu faced the Kotoamatsukami in a series of fierce confrontations. Despite their immense power, each member of the Kotoamatsukami ultimately fell to Amaterasu's might and strategic prowess.
+
+- **[[Amenominakanushi]]**: The supreme ruler of the heavens wielded the ability to cast an inescapable illusion through reciting a poem and expending his blood. However, Amaterasu's keen insight into the [[Transparent World]] allowed her to see through the illusion, and with the help of Nichirin, she was able to defeat him.
+    
+- **[[Takamimusubi]]**: Takamimusubi used his blood to create and control plants that feasted on blood and grew rapidly from any surface. Amaterasu, with her mastery of [[Sun Breathing]], burned through the deadly flora, ultimately slaying Takamimusubi and ending his reign of terror.
+    
+- **[[Kamimusubi]]**: Kamimusubi had the ability to create a replica, known as a Blood Puppet, of anyone he consumed. This ability to mirror his opponents made him a formidable adversary. However, Amaterasu's [[Total Concentration Breathing]] and [[Combat System|combat]] skills enabled her to outmanoeuvre and destroy both Kamimusubi and his replicas.
+
 ## Incarnated Kami
 
 During this period, several Kami reincarnated into human form, bringing their abilities to aid in the fight against demons.
@@ -198,24 +203,10 @@ Incarnating as a human, [[Fūjin]] brought the art of [[Wind Breathing]] to huma
 Incarnating as a human, [[Ōyamatsumi]] introduced the art of [[Stone Breathing]] to the people. This breathing technique allowed the demon slayers to manipulate and control earth and stone, using them as defensive barriers or powerful weapons against their enemies. Stone Breathing was known for its solidity and resilience, providing a strong defense against demonic attacks.
 
 
-## Fall of the Kotoamatsukami
-
-The Asuka Period also marked the decline of the once-powerful [[Kotoamatsukami]]. Each member of this divine trio confronted Amaterasu, leading to epic battles that would determine the fate of the land.
-
-Amaterasu, joined by [[Amatsumara]], faced the Kotoamatsukami in a series of fierce confrontations. Despite their immense power, each member of the Kotoamatsukami ultimately fell to Amaterasu's might and strategic prowess.
-
-- **[[Amenominakanushi]]**: The supreme ruler of the heavens wielded the ability to cast an inescapable illusion through reciting a poem and expending his blood. However, Amaterasu's keen insight into the [[Transparent World]] allowed her to see through the illusion, and with the help of Nichirin, she was able to defeat him.
-    
-- **[[Takamimusubi]]**: Takamimusubi used his blood to create and control plants that feasted on blood and grew rapidly from any surface. Amaterasu, with her mastery of [[Sun Breathing]], burned through the deadly flora, ultimately slaying Takamimusubi and ending his reign of terror.
-    
-- **[[Kamimusubi]]**: Kamimusubi had the ability to create a replica, known as a Blood Puppet, of anyone he consumed. This ability to mirror his opponents made him a formidable adversary. However, Amaterasu's [[Total Concentration Breathing]] and [[Combat System|combat]] skills enabled her to outmanoeuvre and destroy both Kamimusubi and his replicas.
-
-Only [[Amatsumara]] returned after the two traversed 
-
 ---
 ## The Rise of the Twelve Kizuki
 
-Following [[Amaterasu]] disappearance during the [[#Asuka Period]], the world was plunged into turmoil as the powerful demon [[Tsukuyomi]] emerged, heralding the rise of the [[Twelve Kizuki]]. These upper moon demons, handpicked by [[The Demon King]] himself, stood as the vanguard of darkness, each possessing formidable powers and abilities that made them a grave threat to humanity.
+Following [[Amaterasu]] disappearance after the [[#Nara & Heian Period|Nara Period]], the world was plunged into turmoil as the powerful demon [[Tsukuyomi]] emerged, heralding the rise of the [[Twelve Kizuki]]. These upper moon demons, handpicked by [[The Demon King]] himself, stood as the vanguard of darkness, each possessing formidable powers and abilities that made them a grave threat to humanity.
 
 The emergence of these powerful demons posed a dire threat to humanity, prompting the Demon Slayer Corps to redouble their efforts in combating the forces of darkness. With each encounter, the Corps honed their skills and strategies, determined to push back the tide of evil and protect the world from the tyranny of the Twelve Kizuki.
 
@@ -242,6 +233,23 @@ The third among the Twelve Kizuki were the twin demons [[Izanagi]] and [[Izanami
 ### Kagutsuchi
 
 [[Kagutsuchi]], the sixth upper moon demon, was a being of pure flame. His very presence ignited infernos that consumed everything in their path, making him a relentless force of destruction.
+
+## Golden Age of Demon Slayers 
+- [[Hachiman]], [[Kōjin]] and [[Fūjin]] face against [[Kagutsuchi]].
+- [[Ryūjin]] and [[Raijin]] face against [[Nakisawame]].
+- [[Amatsumara]] faces against [[Susanoo]].
+- [[Ōyamatsumi]] faces against [[Izanami]].
+
+## Creation of the 8 Blacksmith Villages 
+- [[Hachiman]] creates 7 additional blacksmith villages outside of [[Blacksmith Village - Sakai]].
+	- [[Blacksmith Village - Seki]]
+	- [[Blacksmith Village - Tsubame-Sanjo]]
+	- [[Blacksmith Village - Hirosaki]]
+	- [[Blacksmith Village - Saga]]
+	- [[Blacksmith Village - Miki]]
+	- [[Blacksmith Village - Takefu]]
+
+
 
 ---
 # Kamakura Period 
