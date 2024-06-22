@@ -7,22 +7,22 @@ tags:
 # Overview
 
 
-| Stage        | Total Invested |
-| ------------ | -------------- |
-| [[#Level 1]] | 3 TP           |
-| [[#Level 2]] | 6 TP           |
-| [[#Level 3]] | 9 TP           |
-| [[#Level 4]] | 12 TP          |
+| Stage   | Total Invested |
+| ------- | -------------- |
+| Level 1 | 3 TP           |
+| Level 2 | 6 TP           |
+| Level 3 | 9 TP           |
+| Level 4 | 12 TP          |
 
 ---
 ## Action Time 
 
-| Stage        | Time  |
-| ------------ | ----- |
-| [[#Level 1]] | 1.25s |
-| [[#Level 2]] | 1.25s |
-| [[#Level 3]] | 1s    |
-| [[#Level 4]] | 1s    |
+| Stage   | Time  |
+| ------- | ----- |
+| Level 1 | 1.25s |
+| Level 2 | 1.25s |
+| Level 3 | 1s    |
+| Level 4 | 1s    |
 
 ---
 

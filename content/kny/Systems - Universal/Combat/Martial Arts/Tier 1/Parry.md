@@ -7,22 +7,22 @@ tags:
 # Overview
 A Parry, or active defence, is designed to redirect an incoming attack away from oneself without directly opposing it. This is achieved by applying a force roughly perpendicular to the attack, often described as "cutting the cut" where you strike the incoming cut across its line with your sword. This method avoids absorbing the energy of the attack and provides more spatial freedom compared to passive defenses. Additionally, by allowing the energy of the attack to continue, it delays the attacker's ability to initiate their next move, providing a strategic advantage
 
-| Stage        | Total Invested |
-| ------------ | -------------- |
-| [[#Level 1]] | 3 TP           |
-| [[#Level 2]] | 6 TP           |
-| [[#Level 3]] | 9 TP           |
-| [[#Level 4]] | 12 TP          |
+| Stage   | Total Invested |
+| ------- | -------------- |
+| Level 1 | 3 TP           |
+| Level 2 | 6 TP           |
+| Level 3 | 9 TP           |
+| Level 4 | 12 TP          |
 
 ---
 ## Action Time 
 
-| Stage        | Time |
-| ------------ | ---- |
-| [[#Level 1]] | 1s   |
-| [[#Level 2]] | 1s   |
-| [[#Level 3]] | 1s   |
-| [[#Level 4]] | 1s   |
+| Stage   | Time |
+| ------- | ---- |
+| Level 1 | 1s   |
+| Level 2 | 1s   |
+| Level 3 | 1s   |
+| Level 4 | 1s   |
 
 ---
 
